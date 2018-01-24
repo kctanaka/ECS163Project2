@@ -1,0 +1,1130 @@
+ID,Name,SubName,State,TotalPeople,Murder,NegligentManslaughter,ForcibleSexOffense,NonforcibleSexOffense,Robbery,AggravatedAssault,Burglary,VehicleTheft,Arson,TotalCrime
+228316001,Southwest Texas Junior College,SWTJC Main Campus,TX,5767,0,0,0,0,0,0,3,0,0,3
+222062002,Walters State Community College, Greene County Campus,TN,6853,0,0,0,0,0,0,0,0,0,0
+222062004,Walters State Community College,Claiborne County Extension,TN,6853,0,0,0,0,0,0,0,0,0,0
+190673001,CUNY Queensborough Community College,Queensborough Community College,NY,15507,0,0,2,0,0,1,1,0,0,4
+196264001,SUNY Empire State College,Main Campus,NY,14325,0,0,0,0,0,0,1,0,0,1
+133553001,Embry Riddle Aeronautical University-Daytona Beach,Daytona Beach - FL Campus,FL,4959,0,0,1,0,2,0,17,2,0,22
+110510001,California State University-San Bernardino,California State University -  San Bernardino,CA,17852,0,0,1,0,1,8,16,23,0,49
+110608001,California State University-Northridge,California State University -  Northridge,CA,35198,0,0,2,0,1,3,14,8,2,30
+126119001,Yuba College,Yuba College - Marysville,CA,8564,0,0,0,0,0,0,5,1,0,6
+106245001,University of Arkansas at Little Rock,University of Arkansas -  Little Rock,AR,13132,0,0,1,0,2,1,5,1,0,10
+162928002,Johns Hopkins University,Johns Hopkins Medical Institutions,MD,20383,0,0,0,0,0,0,0,0,0,0
+162928001,Johns Hopkins University,JHU HOMEWOOD CAMPUS,MD,20383,0,0,0,0,0,0,0,0,0,0
+104151001,Arizona State University,Tempe Campus,AZ,68064,0,0,3,0,5,20,119,29,0,176
+104151002,Arizona State University,Downtown Phoenix Campus,AZ,68064,0,0,1,0,3,0,1,0,0,5
+104151003,Arizona State University,Polytechnic Campus,AZ,68064,0,0,1,0,1,1,4,1,0,8
+104151004,Arizona State University,West Campus,AZ,68064,0,0,0,0,0,1,3,4,0,8
+135717001,Miami Dade College,Main-Wolfson,FL,59120,0,0,0,0,0,0,2,0,0,2
+135717002,Miami Dade College,North Campus,FL,59120,0,0,0,0,0,1,0,7,0,8
+135717003,Miami Dade College,Kendall Campus,FL,59120,0,0,0,0,1,1,2,5,0,9
+135717006,Miami Dade College,Homestead Campus,FL,59120,0,0,0,0,1,0,1,0,0,2
+204796001,Ohio State University-Main Campus,Main Campus,OH,55014,0,0,20,0,10,4,178,13,10,235
+225423001,Houston Community College System,Central College,TX,54942,0,0,0,0,0,0,2,1,0,3
+225423002,Houston Community College System,CENTRAL CAMPUS,TX,54942,0,0,0,1,1,0,1,1,1,5
+225423005,Houston Community College System,NORTHEAST- CODWELL,TX,54942,0,0,0,0,0,0,0,0,0,0
+225423007,Houston Community College System,NORTHEAST - PINEMONT,TX,54942,0,0,0,0,0,0,0,0,0,0
+225423009,Houston Community College System,NORTHWEST - Spring Branch,TX,54942,0,0,0,0,0,0,1,5,0,6
+225423010,Houston Community College System,NORTHWEST - WESTGATE,TX,54942,0,0,0,0,0,0,1,0,0,1
+225423019,Houston Community College System,SOUTHWEST - WESTLOOP,TX,54942,0,0,0,0,0,0,1,1,0,2
+225423030,Houston Community College System,CENTRAL - Willie Gay Hall,TX,54942,0,0,0,0,0,0,0,0,0,0
+132903001,University of Central Florida,Main Campus,FL,53401,0,0,2,0,1,4,38,26,0,71
+132903009,University of Central Florida,Rosen College of Hospitality Management,FL,53401,0,0,0,0,0,0,1,0,0,1
+174066001,University of Minnesota-Twin Cities,Main Campus,MN,51659,0,0,13,0,2,1,74,8,1,99
+174066003,University of Minnesota-Twin Cities,Saint Paul,MN,51659,0,0,2,0,0,0,9,2,0,13
+228778001,The University of Texas at Austin,Main Campus,TX,50995,0,0,10,0,3,3,44,6,1,67
+134130001,University of Florida,University of Florida,FL,50691,0,0,3,0,0,1,33,0,0,37
+228723001,Texas A & M University,Texas A&M University,TX,48702,0,0,0,0,1,1,25,1,1,29
+171100001,Michigan State University,Main Campus,MI,47071,0,0,16,0,5,9,123,9,7,169
+154022001,Ashford University,Main Campus,IA,46835,0,0,0,0,0,0,2,0,0,2
+232946001,Northern Virginia Community College,Main Campus,VA,46619,0,0,0,0,0,3,0,1,0,4
+232946002,Northern Virginia Community College,Alexandria Campus,VA,46619,0,0,0,0,0,0,0,0,0,0
+232946003,Northern Virginia Community College,Loudoun Campus,VA,46619,0,0,0,0,0,0,0,0,0,0
+232946005,Northern Virginia Community College,Woodbridge Campus,VA,46619,0,0,0,0,0,1,0,0,0,1
+227182002,Lone Star College System,North Harris College,TX,46504,0,0,0,0,0,0,0,0,0,0
+227182004,Lone Star College System,Kingwood College,TX,46504,0,0,0,0,0,0,0,0,0,0
+227182005,Lone Star College System,Montgomery College,TX,46504,0,0,0,0,0,0,1,2,0,3
+227182006,Lone Star College System,Cy-Fair College,TX,46504,0,0,1,0,0,1,0,2,0,4
+232557001,Liberty University,Main Campus,VA,46312,1,0,5,0,1,2,10,2,6,27
+236948001,University of Washington-Seattle Campus,Main Campus,WA,45943,0,0,0,0,6,6,83,8,2,105
+214777001,Pennsylvania State University-Main Campus,University Park Campus,PA,45185,0,0,8,0,2,6,49,2,14,81
+228547002,Tarrant County College District,South Campus,TX,44355,0,0,0,0,0,0,0,0,0,0
+228547003,Tarrant County College District,Northeast Campus,TX,44355,0,0,0,0,0,1,1,1,0,3
+228547004,Tarrant County College District,Northwest Campus,TX,44355,0,0,0,0,0,0,0,0,0,0
+228547005,Tarrant County College District,Southeast Campus,TX,44355,0,0,0,0,0,0,0,2,0,2
+228547007,Tarrant County College District,Trinity River,TX,44355,0,0,0,0,0,0,1,0,0,1
+145637001,University of Illinois at Urbana-Champaign,Main Campus,IL,43881,0,0,5,0,8,5,81,5,0,104
+193900001,New York University,NYU Main Campus,NY,43404,0,0,3,0,0,0,44,0,0,47
+193900002,New York University,NYU Medical Center/School of Medicine,NY,43404,0,0,0,0,0,0,6,0,0,6
+151351001,Indiana University-Bloomington,Indiana University - Bloomington Campus,IN,42347,0,0,21,0,0,2,31,10,0,64
+182005001,College of Southern Nevada,Main Campus,NV,42108,0,0,0,0,0,0,1,12,0,13
+170976001,University of Michigan-Ann Arbor,Main Campus,MI,41674,0,0,11,0,1,10,15,5,10,52
+240444001,University of Wisconsin-Madison,Main Campus,WI,41654,0,0,4,2,1,11,83,12,1,114
+243780001,Purdue University-Main Campus,Main Campus,IN,41052,0,0,7,0,4,3,32,4,1,51
+222992002,Austin Community College District,Cypress Creek,TX,40248,0,0,0,0,0,0,0,0,0,0
+222992007,Austin Community College District,Riverside Campus,TX,40248,0,0,0,0,0,0,2,1,0,3
+222992013,Austin Community College District,South Austin Campus,TX,40248,0,0,0,0,0,0,0,0,0,0
+137351001,University of South Florida,USF Tampa Campus,FL,40022,0,0,3,0,1,2,40,19,3,68
+134097001,Florida State University,Main Campus,FL,39785,0,0,10,0,9,7,68,10,6,110
+133951001,Florida International University,Modesto A. Maidique Campus,FL,39610,0,0,1,1,6,3,98,52,0,161
+138187002,Valencia Community College,West Campus,FL,39008,0,0,0,0,0,0,1,0,0,1
+138187003,Valencia Community College,East Campus,FL,39008,0,0,0,0,0,0,0,4,0,4
+104179001,University of Arizona,Main Campus,AZ,38767,0,0,5,0,3,1,26,21,0,56
+110662001,University of California-Los Angeles,UCLA,CA,38550,0,0,11,0,5,9,111,14,0,150
+186380001,Rutgers University-New Brunswick,Main Campus,NJ,37366,0,0,13,0,2,7,52,9,0,83
+132709001,Broward College,Central Campus,FL,37360,0,0,0,0,0,0,24,12,0,36
+132709002,Broward College,North Campus,FL,37360,0,0,0,0,0,0,25,0,0,25
+132709003,Broward College,South Campus,FL,37360,0,0,0,0,8,1,32,9,0,50
+132709004,Broward College,Willis Holcombe Center,FL,37360,0,0,0,0,1,0,1,0,0,2
+163286001,University of Maryland-College Park,Main Campus,MD,37195,0,0,4,0,7,9,87,37,2,146
+225511001,University of Houston,Main Campus,TX,37000,0,0,4,0,10,5,27,11,0,57
+121901001,Riverside Community College,Riverside Community College District,CA,36586,0,0,0,0,1,0,5,1,0,7
+216339001,Temple University,Main Campus,PA,36507,0,0,2,0,2,4,17,0,0,25
+216339002,Temple University,Ambler Campus,PA,36507,0,0,0,0,0,0,1,0,0,1
+216339003,Temple University,Health Science Campus,PA,36507,0,0,0,0,0,7,3,0,0,10
+110565001,California State University-Fullerton,Main Campus,CA,36262,0,0,0,0,1,4,8,21,0,34
+105525001,Pima Community College,West Campus,AZ,35880,0,0,0,0,0,0,1,11,0,12
+105525005,Pima Community College,East Campus,AZ,35880,0,0,1,0,0,0,2,2,0,5
+105525010,Pima Community College,El Rio Adult Education Center,AZ,35880,0,0,0,0,0,0,0,1,0,1
+105525015,Pima Community College,Aviation Technology Center,AZ,35880,0,0,0,0,0,0,0,0,0,0
+105525016,Pima Community College,Public Safety and Emergency Services Institute,AZ,35880,0,0,0,0,0,0,0,0,0,0
+110635001,University of California-Berkeley,Main Campus,CA,35830,0,0,5,0,13,14,48,14,12,106
+113856001,East Los Angeles College,East Los Angeles College,CA,35717,0,0,2,0,0,2,5,15,0,24
+110583001,California State University-Long Beach,Main Campus,CA,35557,0,0,3,0,1,0,14,28,0,46
+109208001,American River College,Main Campus,CA,35413,0,0,2,0,0,1,4,4,0,11
+227216001,University of North Texas,Main Campus,TX,35003,0,0,0,0,0,3,29,3,0,35
+230746001,Salt Lake Community College,Taylorsville Redwood Campus,UT,34966,0,0,0,0,0,0,2,2,0,4
+230746002,Salt Lake Community College,SOUTH CITY CAMPUS,UT,34966,0,0,0,0,1,0,1,2,0,4
+230746006,Salt Lake Community College,LARRY H. MILLER CAMPUS,UT,34966,0,0,0,0,0,0,0,0,0,0
+139959001,University of Georgia,Main Campus,GA,34885,0,0,4,0,3,2,82,3,2,96
+123961001,University of Southern California,University Park Campus,CA,34824,0,0,9,0,1,1,22,8,2,43
+123961002,University of Southern California,Health Sciences Campus,CA,34824,0,0,0,0,0,0,0,0,0,0
+104717001,Grand Canyon University,Grand Canyon University,AZ,34205,0,0,0,0,0,3,18,5,0,26
+230038001,Brigham Young University,Brigham Young University (230038),UT,34130,0,0,11,0,0,0,11,0,0,22
+199193001,North Carolina State University at Raleigh,Main Campus,NC,33819,0,0,5,0,5,4,29,8,1,52
+126614001,University of Colorado at Boulder,Main Campus,CO,33010,0,0,9,0,2,5,60,1,2,79
+112190001,City College of San Francisco,City College of San Francisco,CA,32950,0,0,4,0,6,2,14,6,0,32
+122409001,San Diego State University,Main Campus,CA,32817,0,0,2,0,8,6,69,48,0,133
+122977001,Santa Monica College,Main Campus,CA,32313,0,0,1,0,1,0,15,0,0,17
+234030001,Virginia Commonwealth University,Monroe Park Campus,VA,32172,0,0,2,0,2,1,62,6,2,75
+234030002,Virginia Commonwealth University,MCV Campus,VA,32172,0,0,3,0,1,0,24,14,0,42
+232186001,George Mason University,Main Campus,VA,32067,0,0,5,0,0,1,4,4,2,16
+164988001,Boston University,Boston University Charles River Campus,MA,31960,0,0,1,0,6,5,58,2,1,73
+164988002,Boston University,Boston University Medical Campus,MA,31960,0,0,0,0,0,0,1,0,0,1
+172644001,Wayne State University,Main Campus,MI,31786,0,0,5,0,1,2,39,18,0,65
+122755001,San Jose State University,Main Campus,CA,31280,0,0,3,0,3,12,31,11,6,66
+110644001,University of California-Davis,Main Campus,CA,31247,0,0,13,1,1,3,53,8,8,87
+110644002,University of California-Davis,UC Davis Medical Center,CA,31247,0,0,1,0,3,2,12,4,0,22
+178396001,University of Missouri-Columbia,Main Campus,MO,31237,0,0,2,0,2,6,18,1,1,30
+201885001,University of Cincinnati-Main Campus,Main Campus,OH,31134,0,0,8,0,9,5,29,2,1,54
+121619001,Santa Ana College,Santa Ana College,CA,31073,0,0,0,0,0,0,8,7,0,15
+233921001,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State Univ,VA,30870,1,0,8,0,1,0,29,4,3,46
+233921007,Virginia Polytechnic Institute and State University,Washington-Alexandria Center,VA,30870,0,0,0,0,0,0,0,0,0,0
+228459001,Texas State University-San Marcos,Main Campus,TX,30803,0,0,1,0,0,3,50,0,2,56
+122597001,San Francisco State University,Main Campus,CA,30469,0,0,2,0,2,1,26,6,0,37
+233772001,Tidewater Community College,Norfolk Campus,VA,30447,0,0,0,0,0,0,2,0,0,2
+233772003,Tidewater Community College,Portsmouth Campus,VA,30447,0,0,0,0,0,0,2,0,0,2
+233772004,Tidewater Community College,Virginia Beach Campus,VA,30447,0,0,0,0,0,0,1,0,0,1
+139940001,Georgia State University,Main Campus,GA,30427,0,0,4,0,8,1,8,6,0,27
+240453001,University of Wisconsin-Milwaukee,Main Campus,WI,30418,0,0,9,0,0,1,21,1,0,32
+151111001,Indiana University-Purdue University-Indianapolis,Main Campus,IN,30383,0,0,1,0,3,4,60,13,1,82
+151111002,Indiana University-Purdue University-Indianapolis,Indiana University Purdue University Columbus,IN,30383,0,0,0,0,0,0,0,0,0,0
+209746001,Portland Community College,Sylvania Campus,OR,30161,0,0,0,0,0,0,0,1,0,1
+209746002,Portland Community College,Rock Creek Campus,OR,30161,0,0,0,0,0,0,0,2,0,2
+209746003,Portland Community College,Cascade Campus,OR,30161,0,0,0,0,0,0,0,0,1,1
+209746005,Portland Community College,Southeast Center,OR,30161,0,0,0,0,0,0,0,0,0,0
+229115001,Texas Tech University,Texas Tech University,TX,30049,0,0,2,0,1,1,26,1,0,31
+119164001,Mt San Antonio College,Main Campus,CA,29935,0,0,0,0,6,9,14,12,0,41
+221759001,The University of Tennessee,Main Campus,TN,29934,0,0,3,0,1,1,8,8,0,21
+202356001,Cuyahoga Community College District,Metropolitan Campus,OH,29807,0,0,1,0,1,0,0,0,0,2
+102368001,Troy University,Troy Campus,AL,29328,0,0,0,0,0,0,14,0,0,14
+102368004,Troy University,Dothan Campus,AL,29328,0,0,0,0,0,0,0,0,0,0
+230764001,University of Utah,Main Campus,UT,29284,0,0,3,0,0,2,33,0,1,39
+137078004,St Petersburg College,Health Education Center,FL,29282,0,0,0,0,0,0,0,0,0,0
+137078007,St Petersburg College,St. Petetersburg College-Gibbs Campus,FL,29282,0,0,0,0,0,0,3,1,0,4
+137078008,St Petersburg College,Tarpon Springs Campus,FL,29282,0,0,0,0,0,0,1,0,0,1
+155317001,University of Kansas,Main Campus (Lawrence),KS,29242,0,0,6,0,8,4,38,2,3,61
+155317003,University of Kansas,Medical Center (Kansas City),KS,29242,0,0,2,0,1,5,0,13,0,21
+110617001,California State University-Sacramento,Sacramento State,CA,29241,1,0,2,0,0,3,27,16,0,49
+136215001,Nova Southeastern University,Main Campus,FL,29153,0,0,1,0,0,0,10,5,0,16
+136215003,Nova Southeastern University,Nova Southeastern University - North Miami Beach,FL,29153,0,0,0,0,0,0,0,1,0,1
+182281001,University of Nevada-Las Vegas,University of Nevada-Las Vegas,NV,29080,0,0,5,0,2,3,29,17,0,56
+182281002,University of Nevada-Las Vegas,Shadow Lane Campus,NV,29080,0,0,0,0,0,0,1,0,1,2
+153658001,University of Iowa,Main Campus,IA,28987,0,0,9,1,0,1,23,0,0,34
+229027001,The University of Texas at San Antonio,Main Campus,TX,28955,0,0,0,0,1,0,11,0,1,13
+229027002,The University of Texas at San Antonio,Downtown Campus,TX,28955,0,0,0,0,0,0,0,1,0,1
+199120001,University of North Carolina at Chapel Hill,The University of North Carolina at Chapel Hill,NC,28916,0,0,6,0,2,5,10,4,0,27
+126818001,Colorado State University,Main Campus,CO,28902,0,0,4,0,1,3,14,7,14,43
+238032001,West Virginia University,Main Campus,WV,28898,0,0,5,0,5,8,16,3,2,39
+196088001,University at Buffalo,Main Campus,NY,28881,0,0,2,0,6,1,66,10,3,88
+133702003,Florida Community College at Jacksonville,Kent,FL,28877,0,0,0,0,0,0,0,1,0,1
+133702005,Florida Community College at Jacksonville,South,FL,28877,0,0,0,0,0,0,2,0,1,3
+133702008,Florida Community College at Jacksonville,Cecil Center,FL,28877,0,0,0,0,0,0,0,0,0,0
+230737001,Utah Valley University,Main Campus,UT,28765,0,0,5,4,1,2,3,1,0,16
+100751001,The University of Alabama,Main Campus,AL,28699,0,0,1,0,7,2,51,3,0,64
+159391001,Louisiana State University and Agricultural & Mechanical College,Main Campus,LA,28643,0,0,3,1,12,17,31,12,3,79
+202222001,Columbus State Community College,Columbus State Commuity College,OH,28539,0,0,0,0,0,0,0,0,0,0
+218663001,University of South Carolina-Columbia,Main Campus,SC,28482,0,0,1,0,3,2,68,15,0,89
+110680001,University of California-San Diego,Main Campus,CA,28418,0,0,4,1,2,1,50,38,3,99
+215293001,University of Pittsburgh-Pittsburgh Campus,Main Campus,PA,28328,0,0,4,0,7,2,16,0,0,29
+224642001,El Paso Community College,VALLE VERDE CAMPUS,TX,28168,0,0,1,0,0,0,2,2,0,5
+224642004,El Paso Community College,TRANSMOUNTAIN CAMPUS,TX,28168,0,0,0,0,0,0,0,0,0,0
+224642005,El Paso Community College,NORTHWEST CAMPUS,TX,28168,0,0,0,0,0,0,0,0,0,0
+224642007,El Paso Community College,ASC,TX,28168,0,0,0,0,0,0,0,0,0,0
+228769001,The University of Texas at Arlington,Main Campus,TX,28085,0,0,3,0,3,0,17,7,0,30
+171535002,Oakland Community College,Southfield,MI,28042,0,0,0,0,0,0,0,0,0,0
+171535003,Oakland Community College,Royal Oak,MI,28042,0,0,0,0,0,0,0,0,0,0
+136358001,Palm Beach Community College,Main Campus,FL,28017,0,0,0,0,2,2,1,5,0,10
+136358003,Palm Beach Community College,Boca Raton Campus,FL,28017,0,0,0,0,0,0,0,0,0,0
+136358004,Palm Beach Community College,Palm Beach Gardens Campus,FL,28017,0,0,0,0,1,0,1,0,0,2
+187532001,Central New Mexico Community College,Main Campus,NM,27999,0,0,0,0,0,3,1,12,0,16
+187532003,Central New Mexico Community College,Joseph M. Montoya Campus,NM,27999,0,0,1,0,0,1,0,0,0,2
+153603001,Iowa State University,Iowa State University,IA,27945,0,0,20,0,1,3,36,4,3,67
+209807001,Portland State University,Portland State University,OR,27901,0,0,2,0,1,1,39,8,2,53
+117645001,Long Beach City College,Liberal Arts Campus,CA,27894,0,0,0,0,0,0,3,41,0,44
+117645002,Long Beach City College,Pacific Coast Campus,CA,27894,0,0,0,1,1,0,2,0,0,4
+198464001,East Carolina University,East Carolina University,NC,27654,0,0,11,0,0,3,10,4,3,31
+198464002,East Carolina University,East Carolina University Brody School of Medicine,NC,27654,0,0,0,0,0,0,0,1,0,1
+166027001,Harvard University,Cambridge Campus,MA,27651,1,0,17,0,3,4,21,4,0,50
+166027002,Harvard University,Longwood Campus,MA,27651,0,0,0,0,0,0,3,0,0,3
+133669001,Florida Atlantic University,Boca Raton,FL,27637,0,0,4,0,1,0,27,12,1,45
+133669003,Florida Atlantic University,MacArthur Campus,FL,27637,0,0,1,0,0,0,1,0,0,2
+167358001,Northeastern University,Main Campus,MA,27537,0,0,2,0,8,3,15,0,0,28
+120971001,Palomar College,Main Campus,CA,27442,0,0,1,0,0,1,0,4,0,6
+169248001,Central Michigan University,Main Campus,MI,27247,0,0,4,0,0,0,27,1,3,35
+187985001,University of New Mexico-Main Campus,Main Campus,NM,27241,0,0,6,0,6,6,50,35,3,106
+113980001,El Camino Community College District,Main Campus,CA,27237,0,0,6,1,2,4,6,21,0,40
+122180001,Sacramento City College,Main Campus,CA,27171,0,0,2,0,1,0,2,6,0,11
+110653001,University of California-Irvine,Main Campus,CA,27142,1,0,3,0,0,0,24,5,3,36
+110653002,University of California-Irvine,UCI Medical Center,CA,27142,0,0,0,0,0,0,4,0,0,4
+144865001,College of DuPage,Main Campus,IL,27083,0,0,0,0,0,1,12,0,0,13
+144865008,College of DuPage,Carol Stream Community Education Center,IL,27083,0,0,0,0,0,0,0,0,0,0
+166629001,University of Massachusetts Amherst,Main Campus,MA,27016,0,0,6,0,1,8,59,4,0,78
+227979001,San Jacinto Community College,Main Campus,TX,27011,0,0,0,0,1,0,8,0,0,9
+227979002,San Jacinto Community College,North Houston Campus,TX,27011,0,0,0,0,0,0,2,1,0,3
+227979003,San Jacinto Community College,South Houston Campus,TX,27011,0,0,1,0,0,0,9,1,0,11
+134495001,Hillsborough Community College,Dale Mabry Campus,FL,26964,0,0,1,0,0,0,2,1,0,4
+134495003,Hillsborough Community College,Plant City Campus,FL,26964,0,0,0,0,0,0,4,0,0,4
+145600001,University of Illinois at Chicago,Main Campus,IL,26840,0,0,4,0,7,13,12,3,0,39
+145600003,University of Illinois at Chicago,UIC College of Medicine at Peoria,IL,26840,0,0,0,0,0,0,0,0,0,0
+121044001,Pasadena City College,Pasadena City College - Main Campus,CA,26453,0,0,0,0,0,1,4,7,0,12
+157085001,University of Kentucky,University of KY,KY,26295,0,0,7,0,6,11,31,8,0,63
+163426001,Montgomery College,Montgomery College:Main Campus,MD,26147,0,0,2,0,0,1,4,0,0,7
+163426003,Montgomery College,Montgomery College:Germantown,MD,26147,0,0,0,0,0,0,1,0,0,1
+236939001,Washington State University,Main Campus,WA,26101,0,0,8,0,0,7,23,1,2,41
+236939002,Washington State University,Vancouver Campus,WA,26101,0,0,0,0,0,0,1,1,1,3
+236939003,Washington State University,Spokane Campus,WA,26101,0,0,0,0,0,0,1,0,0,1
+105154001,Mesa Community College,Mesa Community College,AZ,25960,0,0,0,0,1,0,5,1,0,7
+105154003,Mesa Community College,Downtown Center,AZ,25960,0,0,0,0,0,0,1,0,0,1
+200800001,University of Akron Main Campus,Main Campus,OH,25959,0,0,2,0,2,0,10,12,1,27
+207500001,University of Oklahoma Norman Campus,Main Campus,OK,25881,0,0,2,0,1,4,40,7,10,64
+123013001,Santa Rosa Junior College,Santa Rosa Campus,CA,25877,0,0,1,0,1,2,5,4,0,13
+114789001,Fresno City College,Main Campus,CA,25511,0,0,2,0,1,4,15,14,4,40
+120342001,Orange Coast College,Main Campus,CA,25316,0,0,2,0,0,0,15,11,0,28
+113333001,De Anza College,Main Campus,CA,25191,0,0,0,0,0,0,22,3,0,25
+220978001,Middle Tennessee State University,Main Campus,TN,25188,0,0,4,0,1,2,41,7,0,55
+203517001,Kent State University Kent Campus,Main Campus,OH,25127,0,0,2,0,4,0,15,3,0,24
+144740001,DePaul University,Main Campus - Lincoln Park Campus,IL,25072,0,0,0,0,0,0,32,3,0,35
+144740002,DePaul University,Loop Campus,IL,25072,0,0,0,0,0,0,9,0,0,9
+131469001,George Washington University,Main Campus,DC,25061,0,0,9,0,2,2,103,0,0,116
+131469002,George Washington University,Mount Vernon Campus,DC,25061,0,0,0,0,0,0,5,1,0,6
+131469007,George Washington University,Hampton Roads Center,VA,25061,0,0,0,0,1,0,0,0,0,1
+129020001,University of Connecticut,Main Campus,CT,25029,1,0,4,0,2,4,25,2,4,42
+129020002,University of Connecticut,University of Connecticut School of Medicine and Dentistry,CT,25029,0,0,1,0,0,0,0,0,0,1
+247834002,Collin County Community College District,Spring Creek Campus,TX,24872,0,0,0,0,0,0,9,0,0,9
+247834003,Collin County Community College District,Preston Ridge,TX,24872,0,0,0,0,0,0,1,0,0,1
+199139001,University of North Carolina at Charlotte,Main Campus,NC,24701,0,0,4,2,4,1,67,20,2,100
+196097001,Stony Brook University,Stony Brook University,NY,24681,0,0,5,0,2,3,139,7,7,163
+100858001,Auburn University Main Campus,Main Campus,AL,24602,0,0,1,0,1,2,30,3,0,37
+215062001,University of Pennsylvania,Main Campus,PA,24599,0,0,9,0,12,3,22,1,1,48
+172699001,Western Michigan University,Main Campus,MI,24576,0,0,10,0,1,3,37,5,1,57
+172699006,Western Michigan University,Muskegon Regional Center,MI,24576,0,0,0,0,0,0,0,0,0,0
+244437001,Georgia Perimeter College,Clarkston Campus,GA,24549,0,0,0,0,1,0,2,0,0,3
+244437003,Georgia Perimeter College,Decatur Campus,GA,24549,0,0,0,0,0,0,0,3,0,3
+147703001,Northern Illinois University,Main Campus,IL,24424,0,0,8,0,2,12,7,2,1,32
+170082001,Grand Valley State University,Allendale Campus,MI,24408,0,0,2,0,0,0,1,0,0,3
+170082002,Grand Valley State University,Pew Campus (Grand Rapids),MI,24408,0,0,0,0,0,0,0,0,0,0
+170790001,Macomb Community College,South Campus (Main Campus),MI,24376,0,0,0,0,1,0,0,5,0,6
+170790002,Macomb Community College,Center Campus,MI,24376,0,0,0,0,0,0,1,1,0,2
+234076001,University of Virginia-Main Campus,Main Campus,VA,24355,0,0,8,0,2,6,83,9,2,110
+190150001,Columbia University in the City of New York,Morningside Campus,NY,24230,0,0,14,0,4,3,49,0,0,70
+190150002,Columbia University in the City of New York,Columbia University Medical Center,NY,24230,0,0,1,0,0,0,7,0,0,8
+227924001,San Antonio College,Main Campus,TX,24135,0,0,0,0,1,2,5,12,0,20
+223816001,Central Texas College,Main Campus,TX,24133,0,0,0,0,0,0,1,0,0,1
+181464001,University of Nebraska-Lincoln,Main Campus,NE,24100,0,0,1,0,0,1,7,1,0,10
+232982001,Old Dominion University,Old Dominion University,VA,24013,0,0,3,0,1,2,31,6,0,43
+126562001,University of Colorado Denver,University of Colorado Denver - Downtown,CO,23715,0,0,4,0,2,4,17,7,0,34
+126562003,University of Colorado Denver,UCDHSC - Anschutz Medical Campus,CO,23715,0,0,0,0,0,2,3,4,0,9
+105330001,Northern Arizona University,Main Campus,AZ,23597,0,0,12,0,0,5,32,1,7,57
+434672001,The Community College of Baltimore County,CCBC Catonsville Campus,MD,23584,0,0,3,0,0,0,0,3,0,6
+434672002,The Community College of Baltimore County,CCBC Essex Campus,MD,23584,0,0,0,0,1,0,1,0,0,2
+434672003,The Community College of Baltimore County,CCBC Dundalk Campus,MD,23584,0,0,0,0,0,0,0,1,0,1
+155399001,Kansas State University,Main Campus,KS,23581,0,0,3,1,0,4,20,0,0,28
+155399002,Kansas State University,Kansas State University at Salina,KS,23581,0,0,0,0,0,0,0,0,0,0
+122205001,Saddleback College,Main Campus,CA,23260,0,0,0,0,0,0,3,0,0,3
+122375001,San Diego Mesa College,Main Campus,CA,23211,0,0,0,0,2,1,4,12,0,19
+206084001,University of Toledo,University of Toledo,OH,23064,0,0,4,0,7,0,134,4,0,149
+207388001,Oklahoma State University-Main Campus,Oklahoma State University - Stillwater,OK,23033,0,0,6,0,0,1,66,1,0,74
+207388002,Oklahoma State University-Main Campus,Oklahoma State University - Tulsa,OK,23033,0,0,0,0,0,0,7,0,0,7
+230782001,Weber State University,Ogden Campus,UT,23001,0,0,1,1,0,0,12,2,0,16
+169798001,Eastern Michigan University,Eastern Michigan University,MI,22893,0,0,3,0,3,4,42,4,4,60
+110705001,University of California-Santa Barbara,Main Campus,CA,22850,0,0,2,0,1,10,39,3,2,57
+127565001,Metropolitan State College of Denver,Main Campus,CO,22837,0,0,4,0,2,4,16,7,0,33
+193478001,Nassau Community College,Main Campus,NY,22719,0,0,1,0,1,0,2,18,0,22
+204857001,Ohio University-Main Campus,Ohio University - Main Campus,OH,22647,1,0,8,0,1,2,68,0,0,80
+204945001,Owens Community College,Main Campus,OH,22530,0,0,0,0,1,0,1,0,0,2
+212054001,Drexel University,University City Main Campus,PA,22493,0,0,3,0,2,4,25,1,0,35
+212054004,Drexel University,Queen Lane Medical Campus,PA,22493,0,0,0,0,0,0,0,0,0,0
+114859001,Fullerton College,FULLERTON COLLEGE,CA,22469,0,0,0,0,1,0,2,11,0,14
+121886001,Rio Hondo College,Main Campus,CA,22432,0,0,0,0,0,0,1,10,0,11
+140164001,Kennesaw State University,Main Campus,GA,22389,0,0,4,0,0,1,22,2,0,29
+209551001,University of Oregon,Main Campus,OR,22335,0,0,6,0,1,0,25,10,5,47
+153214001,Des Moines Area Community College,Des Moines Area Com. Col. - Ankeny Campus,IA,22324,0,0,0,0,0,0,4,0,0,4
+153214006,Des Moines Area Community College,Des Moines Area Com. Col. - Urban Campus,IA,22324,0,0,0,0,1,0,0,0,0,1
+110529001,California State Polytechnic University-Pomona,Main Campus,CA,22273,0,0,4,0,4,0,13,19,0,40
+190594001,CUNY Hunter College,Main Campus,NY,22168,0,0,0,0,1,0,15,0,0,16
+190594004,CUNY Hunter College,Brookdale,NY,22168,0,0,0,0,0,0,11,0,0,11
+113634001,Diablo Valley College,Main Campus,CA,21951,0,0,0,0,0,3,1,15,0,19
+209542001,Oregon State University,Main Campus,OR,21950,0,0,4,0,0,0,28,9,0,41
+117706001,Los Angeles Pierce College,Los Angeles Pierce College,CA,21928,0,0,3,0,3,0,16,0,0,22
+111887001,Cerritos College,Main Campus,CA,21776,0,0,0,0,2,3,11,28,0,44
+123800001,Southwestern College,SOUTHWESTERN COLLEGE Main Campus,CA,21597,0,0,0,0,0,1,7,9,0,17
+111461001,College of the Canyons,College of the Canyons,CA,21575,0,0,1,0,0,2,8,1,0,12
+205470001,Sinclair Community College,Dayton Campus,OH,21561,0,0,0,0,0,0,0,0,0,0
+110556001,California State University-Fresno,Main Campus,CA,21500,0,0,1,0,1,2,44,18,6,72
+190521001,CUNY Borough of Manhattan Community College,Borough of Manhattan Community College,NY,21424,0,0,1,0,0,2,2,0,0,5
+220862001,University of Memphis,Main Campus,TN,21424,0,0,1,0,1,3,50,2,2,59
+150136001,Ball State University,Main Campus,IN,21401,0,0,1,0,4,1,16,1,0,23
+111939001,Chaffey College,Rancho Campus,CA,21399,0,0,0,0,0,3,14,1,0,18
+199148001,University of North Carolina at Greensboro,Main Campus,NC,21306,0,0,0,0,0,1,23,4,0,28
+145813001,Illinois State University,Main Campus,IL,21184,0,0,1,0,3,5,49,1,1,60
+164076001,Towson University,Main Campus,MD,21177,0,0,3,0,0,0,24,2,1,30
+130943001,University of Delaware,Main Campus,DE,21138,0,0,2,0,3,2,25,5,2,39
+170657001,Lansing Community College,Lansing Community College,MI,21123,0,0,0,0,0,0,53,0,0,53
+170657002,Lansing Community College,West Campus,MI,21123,0,0,0,0,0,0,2,0,0,2
+157289001,University of Louisville,Main Campus,KY,21016,0,0,0,0,8,10,42,8,0,68
+228796001,The University of Texas at El Paso,Main Campus,TX,21011,0,0,0,0,1,5,38,5,0,49
+172635001,Wayne County Community College District,Main Campus,MI,20770,0,0,0,0,0,0,2,13,0,15
+157951001,Western Kentucky University,Western Kentucky University - Main Campus,KY,20712,0,0,6,0,0,20,79,4,0,109
+190664001,CUNY Queens College,Main Campus,NY,20711,0,0,1,0,3,0,10,0,0,14
+123341001,Sierra College,Rocklin Campus,CA,20688,0,0,1,0,0,1,1,3,0,6
+123341002,Sierra College,Nevada County Campus,CA,20688,0,0,0,0,0,0,0,0,0,0
+190415001,Cornell University,Main Campus,NY,20633,0,0,8,0,0,1,18,0,1,28
+110592001,California State University-Los Angeles,Main Campus,CA,20619,0,0,2,0,2,2,43,7,0,56
+210605001,Community College of Allegheny County,Allegheny Campus,PA,20520,0,0,0,0,0,0,0,1,0,1
+210605004,Community College of Allegheny County,South Campus,PA,20520,0,0,0,0,0,0,0,0,0,0
+141574001,University of Hawaii at Manoa,Manoa,HI,20435,0,0,1,0,0,7,21,18,0,47
+141574002,University of Hawaii at Manoa,John A. Burns School of Medicine,HI,20435,0,0,0,0,0,0,0,0,0,0
+155210001,Johnson County Community College,Main Campus,KS,20385,0,0,0,0,0,0,16,2,0,18
+179566001,Missouri State University,Main Campus,MO,20371,0,0,1,0,0,0,17,6,0,24
+195809001,St. John's University-New York,Main Campus,NY,20352,0,0,0,0,0,1,33,0,1,35
+195809002,St. John's University-New York,STATEN ISLAND,NY,20352,0,0,0,0,0,0,0,0,0,0
+195809003,St. John's University-New York,OAKDALE,NY,20352,0,0,0,0,0,0,0,0,0,0
+149222001,Southern Illinois University Carbondale,Southern Illinois University Carbondale,IL,20350,0,0,4,0,4,3,52,1,3,67
+115296001,Grossmont College,GROSSMONT COLLEGE,CA,20335,0,0,2,0,0,0,1,0,0,3
+139755001,Georgia Institute of Technology-Main Campus,Main Campus,GA,20291,0,0,2,0,0,2,60,29,0,93
+122658001,San Joaquin Delta College,Main Campus,CA,20223,0,0,2,0,4,1,7,21,0,35
+122658002,San Joaquin Delta College,Manteca Center Farm,CA,20223,0,0,0,0,0,0,1,0,0,1
+239248001,Milwaukee Area Technical College,Milwaukee Campus,WI,20215,0,0,2,0,0,0,14,1,0,17
+239248003,Milwaukee Area Technical College,West Allis Campus,WI,20215,0,0,0,0,0,0,1,1,0,2
+104708001,Glendale Community College,Main Campus,AZ,20154,0,0,0,0,1,3,3,3,0,10
+117733001,Los Angeles Valley College,Los Angeles Valley College,CA,19951,0,0,2,0,0,1,3,3,0,9
+117788001,Los Angeles City College,Los Angeles City College,CA,19873,0,0,1,0,2,2,12,2,0,19
+147767001,Northwestern University,Main Campus,IL,19853,0,0,5,0,0,1,76,1,0,83
+147767002,Northwestern University,Graduate,IL,19853,0,0,0,0,0,0,30,1,0,31
+106397001,University of Arkansas Main Campus,Main Campus,AR,19849,0,0,8,0,1,1,35,17,0,62
+122889001,Santa Barbara City College,Main Campus,CA,19753,0,0,0,0,1,0,12,0,0,13
+207935001,Tulsa Community College,Metro Campus,OK,19730,0,0,0,0,0,3,4,1,0,8
+207935002,Tulsa Community College,Northeast Campus,OK,19730,0,0,0,0,0,1,2,0,0,3
+196413001,Syracuse University,Main Campus,NY,19638,0,0,11,0,5,1,45,0,2,64
+150987001,Ivy Tech Community College-Central Indiana,Main Campus,IN,19533,0,0,0,0,0,1,0,1,0,2
+110671001,University of California-Riverside,Main Campus,CA,19384,0,0,5,0,5,3,40,7,0,60
+179894001,Webster University,Webster University St. Louis-Main Campus,MO,19372,0,0,0,0,0,1,6,0,0,7
+179894010,Webster University,Colorado Springs Metropolitan Campus,CO,19372,0,0,0,0,0,0,0,0,0,0
+179894027,Webster University,Orlando North Metropolitan Campus,FL,19372,0,0,0,0,0,0,1,0,0,1
+179894033,Webster University,Merritt Island (Space Coast Metropolitan Campus),FL,19372,0,0,0,0,0,0,0,0,0,0
+198260001,Central Piedmont Community College,Main Campus,NC,19364,0,0,0,0,1,0,2,4,0,7
+198260002,Central Piedmont Community College,North Campus,NC,19364,0,0,0,0,0,0,0,0,0,0
+110422001,California Polytechnic State University-San Luis Obispo,Main Campus,CA,19325,0,0,0,0,0,0,6,2,5,13
+217882001,Clemson University,Main Campus,SC,19111,0,0,2,0,1,1,66,13,1,84
+139931001,Georgia Southern University,Main Campus,GA,19086,0,0,3,0,1,0,25,3,0,32
+215239001,Community College of Philadelphia,Spring Garden Street (Main) Campus,PA,19048,0,0,0,0,1,2,0,0,0,3
+193326001,Monroe Community College,Brighton,NY,18976,0,0,3,0,0,1,4,1,0,9
+232423001,James Madison University,Main Campus-Harrisonburg,VA,18971,0,0,4,0,0,0,23,0,0,27
+142115001,Boise State University,Main Campus,ID,18933,0,0,3,0,0,0,10,2,1,16
+171571001,Oakland University,Main Campus,MI,18918,0,0,1,0,0,2,9,1,0,13
+127200001,Front Range Community College,Westminster Campus,CO,18713,0,0,0,0,0,0,0,0,0,0
+127200003,Front Range Community College,Boulder County Campus,CO,18713,0,0,0,0,0,0,0,0,0,0
+176080001,Mississippi State University,Main Campus,MS,18601,0,0,1,0,1,1,34,5,0,42
+188030001,New Mexico State University-Main Campus,Main Campus,NM,18526,0,0,4,0,2,8,58,15,1,88
+243744001,Stanford University,Main Campus,CA,18498,0,0,10,0,2,5,146,15,1,179
+118976001,Modesto Junior College,MJC/East Campus,CA,18410,0,0,0,0,0,0,4,3,0,7
+118976002,Modesto Junior College,MJC/West Campus and YCCD District Offices,CA,18410,0,0,0,0,0,0,0,2,0,2
+109819001,Bakersfield College,Bakersfield College,CA,18402,0,0,0,0,0,0,8,13,0,21
+227368001,The University of Texas-Pan American,University of Texas Pan American,TX,18337,0,0,0,0,0,0,16,7,0,23
+114716001,Foothill College,Main Campus,CA,18293,0,0,0,1,0,0,2,1,0,4
+190619001,CUNY Kingsborough Community College,Kingsborough Community College,NY,18204,0,0,4,0,0,0,6,0,0,10
+227766001,Richland College,Main Campus,TX,18201,0,0,0,0,0,0,3,8,0,11
+185590001,Montclair State University,Main Campus,NJ,18171,0,0,3,0,1,7,28,0,1,40
+174783001,Saint Cloud State University,Main Campus,MN,18123,0,0,9,0,0,0,28,0,0,37
+146472001,College of Lake County,Main Campus,IL,18092,0,0,0,0,0,3,1,0,0,4
+146472002,College of Lake County,Lakeshore Campus,IL,18092,0,0,0,0,0,0,0,0,0,0
+122339001,San Diego City College,Main Campus,CA,18074,0,0,2,0,1,0,1,2,0,6
+196060001,SUNY at Albany,Main Campus,NY,18020,0,0,7,0,3,5,16,1,4,36
+132693002,Brevard Community College,Brevard Community College-Melbourne Campus,FL,17853,0,0,0,0,0,1,3,1,0,5
+132693003,Brevard Community College,Brevard Community College-Titusville Campus,FL,17853,0,0,0,0,0,0,1,0,0,1
+132693004,Brevard Community College,Brevard Community College-Palm Bay Campus,FL,17853,0,0,0,0,0,0,2,1,0,3
+147378001,Moraine Valley Community College,Moraine Valley Community College,IL,17774,0,0,0,0,0,0,0,0,0,0
+217475001,Community College of Rhode Island,Main Campus,RI,17760,0,0,0,0,0,0,0,0,1,1
+217475003,Community College of Rhode Island,Liston Campus,RI,17760,0,0,0,0,0,0,0,3,0,3
+119216001,Mt. San Jacinto Community College District,San Jacinto Campus,CA,17583,0,0,0,0,0,1,10,1,0,12
+119216002,Mt. San Jacinto Community College District,Menifee Valley Campus,CA,17583,0,0,0,0,1,0,3,1,0,5
+206604001,Wright State University-Main Campus,Main Campus,OH,17558,0,0,4,0,2,0,36,3,0,45
+170240001,Henry Ford Community College,Main Campus,MI,17542,1,0,0,0,0,0,0,8,0,9
+170240002,Henry Ford Community College,Dearborn Heights Center,MI,17542,0,0,0,0,0,0,0,1,0,1
+133386001,Daytona State College,Daytona State College Daytona Beach Campus,FL,17352,0,0,2,0,0,2,0,4,0,8
+133386005,Daytona State College,DeLand Campus,FL,17352,0,0,1,0,0,0,0,0,1,2
+201441001,Bowling Green State University-Main Campus,Main Campus,OH,17309,0,0,4,0,0,1,39,0,1,45
+102553001,University of Alaska Anchorage,Anchorage Campus,AK,17276,0,0,1,0,0,1,5,4,0,11
+102553003,University of Alaska Anchorage,Kenai River Campus,AK,17276,0,0,0,0,0,0,1,0,0,1
+223427001,Blinn College,Main Campus,TX,17173,0,0,0,0,1,2,39,1,0,43
+227377001,The University of Texas at Brownsville,UTB/TSC Main Campus,TX,17151,0,0,0,0,0,2,0,4,0,6
+134608001,Indian River State College,Main Campus,FL,17110,0,0,0,0,0,0,5,0,0,5
+190549001,CUNY Brooklyn College,Main Campus,NY,17094,0,0,0,0,0,0,7,0,0,7
+190628001,CUNY LaGuardia Community College,LaGuardia Community College,NY,17028,0,0,0,0,1,4,9,0,0,14
+181303001,Metropolitan Community College Area,Main Campus,NE,17003,0,0,0,0,0,0,2,0,0,2
+181303002,Metropolitan Community College Area,South Omaha Campus,NE,17003,0,0,0,0,1,0,0,2,0,3
+197869001,Appalachian State University,Main Campus,NC,16968,0,0,5,0,0,0,22,2,0,29
+110538001,California State University-Chico,Main Campus,CA,16934,0,0,1,0,3,1,8,5,1,19
+204024001,Miami University-Oxford,Miami University-Oxford (204024),OH,16884,0,0,10,0,4,3,13,0,1,31
+135081007,Keiser University-Ft. Lauderdale,KEISER UNIVERSITY- KENDALL,FL,16882,0,0,0,0,1,0,0,1,0,2
+182290001,University of Nevada-Reno,Main Campus,NV,16875,0,0,1,0,1,4,35,3,1,45
+100663001,University of Alabama at Birmingham,Main Campus,AL,16874,0,0,2,0,2,0,22,10,0,36
+115001001,Glendale Community College,Main Campus,CA,16781,0,0,0,0,0,1,3,0,0,4
+115001002,Glendale Community College,Garfield Campus,CA,16781,0,0,0,0,0,0,2,0,0,2
+110714001,University of California-Santa Cruz,Main Campus,CA,16775,0,0,4,0,0,1,45,3,1,54
+227881001,Sam Houston State University,Main Campus,TX,16772,0,0,0,0,0,1,7,2,0,10
+158662001,Delgado Community College,Main Campus,LA,16758,0,0,0,0,0,0,6,0,0,6
+161767001,Anne Arundel Community College,Anne Arundel Community College,MD,16741,0,0,1,0,0,0,0,0,0,1
+238263001,Madison Area Technical College,Main Campus,WI,16610,0,0,0,0,0,0,35,0,0,35
+238263007,Madison Area Technical College,Commercial Avenue Center,WI,16610,0,0,0,0,0,0,0,0,0,0
+178420001,University of Missouri-St Louis,Main Campus,MO,16534,0,0,0,1,1,6,12,0,0,20
+131496001,Georgetown University,Georgetown University Main Campus,DC,16520,0,0,9,0,2,3,27,0,0,41
+131496002,Georgetown University,Georgetown University Law Center,DC,16520,0,0,0,0,1,0,1,0,0,2
+136172001,University of North Florida,Main Campus,FL,16477,0,0,0,0,0,1,18,3,0,22
+183743001,Bergen Community College,Main Campus,NJ,16469,0,0,0,0,2,0,0,0,0,2
+137209001,Seminole Community College,Sanford/Lake Mary,FL,16417,0,0,0,0,0,1,8,2,0,11
+137209005,Seminole Community College,Altamonte Springs Campus,FL,16417,0,0,0,0,0,0,0,0,0,0
+119137001,Moorpark College,Main Campus,CA,16393,0,0,0,0,0,0,13,0,0,13
+217484001,University of Rhode Island,Main Campus,RI,16389,0,0,14,0,4,0,20,1,1,40
+217484002,University of Rhode Island,Narragansett Bay Campus,RI,16389,0,0,0,0,0,0,0,0,0,0
+217484003,University of Rhode Island,Providence Center Campus,RI,16389,0,0,0,0,0,0,0,0,0,0
+160658001,University of Louisiana at Lafayette,UNIVERSITY OF LOUISIANA AT LAFAYETTE,LA,16361,0,0,1,0,1,1,26,0,0,29
+179159001,Saint Louis University-Main Campus,Main Campus,MO,16317,0,0,1,0,9,0,13,24,0,47
+156620001,Eastern Kentucky University,Main Campus,KY,16268,0,0,3,0,1,1,63,0,1,69
+202134001,Cleveland State University,Cleveland State University,OH,16216,0,0,1,3,3,1,3,8,0,19
+190567001,CUNY City College,The City College of New York,NY,16212,0,0,1,0,3,0,7,0,0,11
+190512001,CUNY Bernard M Baruch College,Main Campus,NY,16195,0,0,0,0,1,0,2,0,0,3
+206941001,University of Central Oklahoma,Main Campus,OK,16092,0,0,2,0,0,0,15,2,0,19
+133508001,Edison State College,Main Campus,FL,16034,0,0,0,0,0,0,0,0,0,0
+110334001,Cabrillo College,Aptos Campus,CA,15974,0,0,0,0,0,1,18,1,0,20
+117724001,Los Angeles Trade Technical College,Los Angeles Trade Tech College,CA,15968,0,0,1,0,2,2,37,10,1,53
+113096001,Cosumnes River College,Cosumnes River College,CA,15946,0,0,0,0,5,0,2,16,0,23
+176017001,University of Mississippi Main Campus,Main Campus,MS,15932,0,0,1,0,0,0,25,2,0,28
+146719001,Loyola University Chicago,Main Campus,IL,15879,0,0,1,0,1,2,4,0,0,8
+146719002,Loyola University Chicago,Water Tower Campus,IL,15879,0,0,0,0,0,2,2,0,0,4
+228787001,The University of Texas at Dallas,Main Campus,TX,15783,0,0,3,0,0,3,18,0,0,24
+149842001,Harper College,Palatine Campus,IL,15711,0,0,0,0,0,1,26,0,0,27
+149532001,Triton College,Main Campus,IL,15706,0,0,1,2,0,5,9,4,0,21
+109350001,Antelope Valley College,Main Campus,CA,15705,0,0,0,0,0,2,0,0,0,2
+183938001,Camden County College,Blackwood Campus,NJ,15670,0,0,0,0,0,0,1,0,0,1
+183859001,Brookdale Community College,Main Campus,NJ,15639,0,0,0,0,0,0,0,0,0,0
+135726001,University of Miami,Coral Gables Campus,FL,15629,0,0,0,0,1,2,34,3,0,40
+135726002,University of Miami,Medical Campus,FL,15629,0,0,0,0,1,0,3,9,0,13
+230728001,Utah State University,Main Campus,UT,15612,0,0,3,0,0,1,5,1,0,10
+177065001,Columbia College,Columbia College (Main Campus) @ Columbia,MO,15556,0,0,0,0,0,0,0,0,0,0
+195003001,Rochester Institute of Technology,Main Campus,NY,15445,0,0,9,0,0,2,24,1,0,36
+113236001,Cypress College,Main Campus,CA,15439,0,0,2,0,0,0,0,16,0,18
+108232001,Academy of Art University,Main Campus,CA,15413,0,0,2,0,2,1,4,0,0,9
+190655001,CUNY New York City College of Technology,Main Campus,NY,15399,0,0,1,0,0,0,4,0,0,5
+117052001,Reedley College,Reedley College,CA,15384,0,0,1,0,0,2,3,4,1,11
+117052002,Reedley College,Madera Community College Center,CA,15384,0,0,1,0,0,0,0,1,0,2
+117052004,Reedley College,Oakhurst Center,CA,15384,0,0,0,0,0,0,0,0,0,0
+117052005,Reedley College,Willow International,CA,15384,0,0,0,0,0,0,0,0,0,0
+157447001,Northern Kentucky University,Main Campus,KY,15378,0,0,2,0,0,0,32,0,0,34
+111920001,Chabot College,Chabot College Campus,CA,15375,0,0,0,0,2,1,4,18,2,27
+151801001,Indiana Wesleyan University,Main Campus,IN,15345,0,0,0,0,0,0,1,0,0,1
+190600001,CUNY John Jay College Criminal Justice,John Jay College of Criminal Justice,NY,15330,0,0,0,0,0,1,1,0,0,2
+176372001,University of Southern Mississippi,Main Campus,MS,15300,0,0,0,0,3,0,10,1,2,16
+183044001,University of New Hampshire-Main Campus,Main Campus,NH,15253,0,0,10,0,1,6,5,3,2,27
+426314096,Embry Riddle Aeronautical University-Worldwide,Orlando,FL,15249,0,0,0,0,0,0,0,0,0,0
+199856001,Wake Technical Community College,Main Campus,NC,15203,0,0,0,0,0,0,0,0,0,0
+199856002,Wake Technical Community College,Wake Technical Community College Heath Science Campus,NC,15203,0,0,0,0,0,0,0,0,0,0
+199856003,Wake Technical Community College,Northern Wake Campus,NC,15203,0,0,0,0,1,0,0,0,0,1
+160612001,Southeastern Louisiana University,Main Campus,LA,15151,0,0,1,0,2,2,13,0,1,19
+144050001,University of Chicago,Main Campus,IL,15094,0,0,1,0,1,2,27,0,0,31
+218113001,Greenville Technical College,Barton [Main] Campus,SC,15089,0,0,1,0,0,1,2,0,0,4
+185262001,Kean University,Main Campus,NJ,15051,0,0,0,0,1,0,65,1,1,68
+137096001,Santa Fe College,Northwest Campus,FL,15043,0,0,0,0,0,0,4,0,1,5
+164924001,Boston College,Main Campus,MA,15036,0,0,11,0,0,5,6,3,0,25
+156921001,Jefferson Community and Technical College,Main Campus,KY,14991,0,0,0,0,2,0,2,0,0,4
+156921003,Jefferson Community and Technical College,Jefferson Technical Campus,KY,14991,0,0,0,0,0,0,0,0,0,0
+173920001,Minnesota State University-Mankato,Main Campus,MN,14955,0,0,8,0,2,5,18,0,0,33
+142522001,Brigham Young University-Idaho,BYU-Idaho,ID,14944,0,0,0,0,0,1,1,0,0,2
+180489001,The University of Montana,Main Campus,MT,14921,0,0,2,0,2,3,4,2,0,13
+123527001,San Bernardino Valley College,San Bernardino Valley College,CA,14916,0,0,0,0,1,1,24,12,1,39
+166638001,University of Massachusetts-Boston,Harbor Campus,MA,14912,0,0,0,0,0,0,26,0,0,26
+218894001,Trident Technical College,Main Campus,SC,14834,0,0,0,0,0,3,3,0,0,6
+191083001,Erie Community College,Main Campus,NY,14823,0,0,1,0,1,1,0,0,0,3
+178402001,University of Missouri-Kansas City,Main Campus,MO,14799,0,0,1,0,3,0,29,3,0,36
+178402002,University of Missouri-Kansas City,Health Sciences Complex,MO,14799,0,0,0,0,0,0,8,0,0,8
+110574001,California State University-East Bay,Main Campus,CA,14749,0,0,0,0,2,1,16,12,0,31
+110574002,California State University-East Bay,Contra Costa Campus,CA,14749,0,0,0,0,0,0,2,0,0,2
+196079001,SUNY at Binghamton,Main Campus,NY,14709,1,0,3,0,0,3,11,0,1,19
+206695001,Youngstown State University,Main Campus,OH,14644,0,0,5,0,0,0,13,2,0,20
+213020001,Indiana University of Pennsylvania-Main Campus,Main Campus,PA,14638,0,0,7,0,1,1,7,0,0,16
+213020002,Indiana University of Pennsylvania-Main Campus,Punxsutawney Campus,PA,14638,0,0,0,0,0,0,1,0,0,1
+181394001,University of Nebraska at Omaha,Main Campus,NE,14620,0,0,1,0,0,0,6,0,0,7
+223232001,Baylor University,Main Campus,TX,14614,0,0,0,0,0,1,8,4,1,14
+156125001,Wichita State University,Main Campus,KS,14601,0,0,3,0,1,0,4,1,0,9
+237011001,Western Washington University,Main Campus,WA,14575,0,0,1,0,1,0,18,3,1,24
+191241001,Fordham University,Main Campus,NY,14544,0,0,1,0,0,3,35,0,0,39
+191241002,Fordham University,FORDHAM UNI-LINCOLN CENTER CAMPUS,NY,14544,0,0,0,0,0,0,12,0,0,12
+137759001,Tallahassee Community College,Main Campus,FL,14526,0,0,0,0,0,2,10,0,0,12
+137759002,Tallahassee Community College,Florida Public Safety Institute,FL,14526,0,0,0,0,0,0,0,0,0,0
+102094001,University of South Alabama,Main Campus,AL,14522,0,0,2,0,5,3,31,9,0,50
+110547001,California State University-Dominguez Hills,California State University Dominguez Hills,CA,14477,0,0,2,0,5,6,57,9,0,79
+143215001,Southwestern Illinois College,Belleville Campus,IL,14440,0,0,0,0,1,2,2,0,0,5
+143215003,Southwestern Illinois College,Sam Wolf Granite City Campus,IL,14440,0,0,0,0,0,0,2,0,0,2
+220075001,East Tennessee State University,Main Campus,TN,14421,0,0,4,1,1,2,28,2,1,39
+125028001,Ventura College,Main Campus,CA,14395,0,0,0,0,2,0,19,0,2,23
+198419001,Duke University,Main Campus,NC,14350,0,0,13,0,4,11,47,11,1,87
+137032001,Saint Leo University,Saint Leo University,FL,14339,0,0,0,0,0,1,6,1,0,8
+216764001,West Chester University of Pennsylvania,Main Campus,PA,14211,0,0,5,0,0,0,31,1,0,37
+200332001,North Dakota State University-Main Campus,Main Campus,ND,14189,0,0,0,0,0,2,9,3,0,14
+197294001,SUNY Westchester Community College,Main Campus,NY,14147,0,0,3,0,0,1,3,3,0,10
+207449001,Oklahoma City Community College,Main Campus,OK,14114,0,0,1,0,0,0,5,4,0,10
+234669001,Bellevue College,Main Campus,WA,14010,0,0,0,0,1,1,2,6,0,10
+226091001,Lamar University,LAMAR UNIVERSITY,TX,13992,0,0,2,0,2,2,11,3,0,20
+115126001,Golden West College,Golden West College,CA,13978,0,0,0,0,1,0,4,8,0,13
+152637001,Vincennes University,Main Campus,IN,13947,0,0,5,0,0,1,17,1,0,24
+149231001,Southern Illinois University Edwardsville,Main Campus,IL,13940,0,0,1,0,0,2,20,0,0,23
+169910001,Ferris State University,Main Campus,MI,13865,0,0,4,1,1,5,16,1,0,28
+190558001,CUNY College of Staten Island,Main Campus,NY,13858,0,0,0,0,0,1,2,0,0,3
+240055010,University of Wisconsin Colleges,University of Wisconsin-Richland,WI,13789,0,0,0,0,0,0,0,0,0,0
+240055011,University of Wisconsin Colleges,University of Wisconsin-Rock County,WI,13789,0,0,0,0,0,0,0,0,0,0
+237525001,Marshall University,Marshall University,WV,13776,0,0,1,0,3,0,4,0,0,8
+163657001,Prince George's Community College,Main Campus,MD,13685,0,0,0,0,1,8,2,3,0,14
+151102001,Indiana University-Purdue University-Fort Wayne,Main Campus,IN,13675,0,0,2,0,0,0,15,1,0,18
+117247001,Laney College,Main Campus,CA,13627,0,0,0,0,1,1,30,8,0,40
+166513001,University of Massachusetts-Lowell,University of Massachusetts Lowell,MA,13602,0,0,3,0,0,7,16,5,3,34
+179867001,Washington University in St Louis,Danforth Campus,MO,13575,0,0,5,0,0,0,7,6,0,18
+179867002,Washington University in St Louis,Medical School Campus,MO,13575,0,0,0,0,0,0,11,6,0,17
+127820001,Pikes Peak Community College,Centennial Campus,CO,13572,0,0,2,0,0,0,2,1,0,5
+118912001,Miracosta College,MiraCosta Community College District,CA,13537,0,0,1,0,1,1,3,2,0,8
+142276001,Idaho State University,ISU -- Pocatello Campus,ID,13493,0,0,1,0,0,0,2,1,0,4
+125091001,Victor Valley College,Victor Valley College,CA,13470,0,0,1,0,0,2,8,1,0,12
+198622001,Guilford Technical Community College,Main Campus,NC,13432,0,0,0,0,1,2,0,0,5,8
+231174001,University of Vermont,Main Campus,VT,13391,0,0,8,0,0,2,44,0,1,55
+185536001,Middlesex County College,Main Campus,NJ,13356,0,0,0,0,0,0,1,0,0,1
+229179001,Texas Woman's University,Main Campus,TX,13338,0,0,0,0,0,1,4,2,0,7
+123217001,College of the Sequoias,College of the Sequoias,CA,13322,0,0,0,0,2,0,37,3,0,42
+191719001,Hudson Valley Community College,Main Campus,NY,13320,0,0,0,0,0,0,6,0,0,6
+184481001,Essex County College,Main Campus,NJ,13314,0,0,1,0,1,0,1,1,0,4
+154095001,University of Northern Iowa,Main Campus,IA,13303,0,0,5,0,0,0,5,2,0,12
+116439001,Irvine Valley College,Irvine Valley College,CA,13294,0,0,0,0,0,0,4,1,0,5
+240365001,University of Wisconsin-Oshkosh,University of Wisconsin Oshkosh,WI,13192,0,0,5,0,0,0,4,0,1,10
+144184001,City Colleges of Chicago-Harry S Truman College,Main Campus,IL,13174,0,0,0,0,0,0,0,0,0,0
+200280001,University of North Dakota,Main Campus,ND,13172,0,0,1,0,0,3,17,0,0,21
+110246001,Butte College,Main Campus,CA,13147,0,0,0,0,0,0,8,0,0,8
+145682001,Illinois Central College,Main Campus,IL,13049,0,0,0,0,1,0,0,0,0,1
+145682003,Illinois Central College,Peoria North,IL,13049,0,0,0,0,0,0,0,0,0,0
+172200001,Schoolcraft College,Main Campus,MI,13042,0,0,0,0,0,0,0,1,0,1
+172200002,Schoolcraft College,Radcliff Center,MI,13042,0,0,0,0,0,0,0,0,0,0
+221485002,Southwest Tennessee Community College,Union Campus,TN,13016,0,0,0,0,0,0,0,0,0,0
+234933001,Clark College,Main Campus and TPC,WA,12989,0,0,0,0,0,0,0,10,0,10
+139658001,Emory University,Main Campus,GA,12930,0,0,9,0,0,0,7,19,1,36
+139658002,Emory University,Oxford College Campus,GA,12930,0,0,0,0,0,0,2,3,0,5
+139658003,Emory University,Emory University Hospital Midtown Campus,GA,12930,0,0,0,0,0,0,0,3,0,3
+139658004,Emory University,Carter Center Campus,GA,12930,0,0,0,0,0,0,0,0,0,0
+139658005,Emory University,WEB/Steiner Building Campus,GA,12930,0,0,0,0,0,0,0,0,0,0
+199218001,University of North Carolina-Wilmington,Main Campus,NC,12924,0,0,2,0,1,1,31,2,0,37
+112172001,Citrus College,Main Campus,CA,12895,0,0,0,0,0,4,1,7,0,12
+125499001,West Valley College,WEST VALLEY COLLEGE,CA,12893,0,0,0,0,1,2,2,4,0,9
+177472001,Ozarks Technical Community College,OZARKS TECHNICAL COMMUNITY COLLEGE,MO,12884,0,0,0,0,0,0,1,3,0,4
+163268001,University of Maryland-Baltimore County,Main Campus,MD,12870,0,0,3,0,0,3,6,1,2,15
+228431001,Stephen F Austin State University,Main Campus,TX,12845,0,0,4,0,2,3,39,2,1,51
+203748001,Lorain County Community College,Lorain County Community College,OH,12798,0,0,0,0,0,0,0,0,1,1
+225432001,University of Houston-Downtown,Main Campus,TX,12742,0,0,0,0,3,1,1,2,0,7
+232414002,J Sargeant Reynolds Community College,Downtown Campus,VA,12729,0,0,0,0,0,0,0,0,0,0
+127741001,University of Northern Colorado,Main Campus,CO,12711,0,0,8,0,0,1,2,1,0,12
+194310001,Pace University-New York,Pace University,NY,12706,0,0,0,0,0,0,0,0,0,0
+194310003,Pace University-New York,Pleasantville/Briarcliff,NY,12706,0,0,0,0,0,0,2,0,0,2
+399212001,Santiago Canyon College,Santiago Canyon College,CA,12698,0,0,0,0,0,0,0,1,1,2
+209038001,Lane Community College,Main Campus,OR,12691,0,0,0,0,0,0,31,7,0,38
+149772001,Western Illinois University,Macomb Campus,IL,12679,0,0,7,0,1,1,37,0,0,46
+221999001,Vanderbilt University,Main Campus,TN,12506,0,0,9,0,2,5,45,8,0,69
+128771001,Central Connecticut State University,Main Campus,CT,12461,0,0,3,0,1,0,3,4,0,11
+240727001,University of Wyoming,University of Wyoming,WY,12427,0,0,1,0,0,0,26,1,3,31
+141264001,Valdosta State University,Main Campus,GA,12391,0,0,2,0,1,0,14,2,4,23
+219356001,South Dakota State University,Main Campus,SD,12376,0,0,1,0,0,0,47,3,5,56
+122746001,San Jose City College,San Jose City College,CA,12364,0,0,0,0,0,0,6,5,0,11
+180461001,Montana State University,Main Campus,MT,12348,0,0,1,0,0,0,3,3,3,10
+133650001,Florida Agricultural and Mechanical University,Main Campus,FL,12274,0,0,5,0,7,3,33,3,0,51
+131159001,American University,Main Campus,DC,12241,0,0,3,0,1,3,31,2,3,43
+211927001,Delaware County Community College,Marple Campus,PA,12237,0,0,0,0,0,1,1,0,0,2
+123563001,Solano Community College,Main Campus-Fairfield,CA,12222,0,0,0,0,0,0,1,8,0,9
+208390001,Chemeketa Community College,Main Campus,OR,12217,0,0,0,0,0,0,0,6,1,7
+190637001,CUNY Lehman College,Herbert H. Lehman College,NY,12195,0,0,0,0,0,0,1,1,0,2
+105428001,Phoenix College,Main Campus,AZ,12164,0,0,0,0,0,0,0,1,0,1
+106458001,Arkansas State University-Main Campus,Jonesboro,AR,12156,0,0,2,0,1,3,59,3,0,68
+169275001,Mott Community College,Main Campus,MI,12151,0,0,1,0,2,0,6,0,1,10
+144281001,Columbia College Chicago,Alexandroff Center,IL,12127,0,0,1,0,2,3,33,0,0,39
+224350001,Del Mar College,Del Mar College,TX,12069,0,0,0,0,0,0,0,1,0,1
+191649001,Hofstra University,Main Campus,NY,12068,0,0,4,0,2,1,6,3,0,16
+194222001,Onondaga Community College,Main Campus,NY,12038,0,0,3,0,1,0,2,0,0,6
+113193001,Cuesta College,Cuesta College,CA,12025,0,0,0,0,0,0,1,0,0,1
+170541001,Kalamazoo Valley Community College,KALAMAZOO VALLEY COMMUNITY COLLEGE TEXAS TOWNSHIP,MI,11999,0,0,1,0,0,0,0,0,0,1
+170541002,Kalamazoo Valley Community College,KALAMAZOO VALLEY COMMUNITY COLLEGE ARCADIA COMMONS,MI,11999,0,0,0,0,0,0,0,0,0,0
+144892001,Eastern Illinois University,Main Campus,IL,11966,0,0,1,0,0,4,14,0,0,19
+142285001,University of Idaho,Main Campus,ID,11957,0,0,1,0,0,0,8,1,0,10
+224572001,Eastfield College,Main Campus,TX,11944,0,0,0,0,0,5,23,13,0,41
+161253001,University of Maine,University of Maine,ME,11894,0,0,1,0,1,0,24,2,21,49
+125471001,West Los Angeles College,West Los Angeles College,CA,11866,0,0,0,0,0,0,1,0,0,1
+152080001,University of Notre Dame,Main Campus,IN,11816,0,0,2,0,0,2,49,4,1,58
+130493001,Southern Connecticut State University,Main Campus,CT,11815,0,0,4,0,0,3,1,8,1,17
+223524001,Brookhaven College,BROOKHAVEN COLLEGE,TX,11814,0,0,0,0,0,1,0,2,0,3
+106704001,University of Central Arkansas,Main Campus,AR,11781,0,0,1,0,0,2,40,1,0,44
+217819001,College of Charleston,Main Campus,SC,11772,0,0,6,0,0,0,11,0,0,17
+175786001,Hinds Community College,Hinds Community College-Main Campus-Raymond,MS,11752,0,0,0,0,0,0,38,0,1,39
+175786005,Hinds Community College,Hinds Community College-Utica Campus,MS,11752,0,0,0,0,0,1,0,0,1,2
+192448001,Long Island University-C W Post Campus,C. W. Post Campus,NY,11749,0,0,2,0,0,0,4,0,0,6
+135391001,Manatee Community College,Bradenton Campus,FL,11746,0,0,0,0,0,0,0,0,0,0
+159939001,University of New Orleans,Main Campus,LA,11724,0,0,0,0,5,0,4,1,0,10
+196130001,SUNY College at Buffalo,Buffalo State College,NY,11714,0,0,3,0,1,5,43,2,1,55
+144944001,Elgin Community College,Spartan Drive Campus,IL,11704,0,0,0,0,0,0,0,0,0,0
+239105001,Marquette University,Main Campus,WI,11689,0,0,2,0,0,0,22,1,0,25
+174233001,University of Minnesota-Duluth,University of Minnesota Duluth,MN,11664,0,0,1,0,0,1,7,0,1,10
+127060001,University of Denver,University Park Campus,CO,11644,0,0,1,0,0,0,22,4,2,29
+136473001,Pensacola Junior College,Pensacola State College,FL,11598,0,0,1,0,2,1,7,0,0,11
+130794001,Yale University,Main Campus,CT,11593,1,0,7,0,3,0,74,12,2,99
+122384001,San Diego Miramar College,Main Campus,CA,11584,0,0,0,0,0,0,0,5,0,5
+181640001,Southeast Community College Area,Southeast Community College-Lincoln,NE,11556,0,0,2,0,0,2,0,0,0,4
+181640002,Southeast Community College Area,Southeast Community College-Milford,NE,11556,0,0,1,0,0,0,0,0,0,1
+169479001,Davenport University,Davenport University - Grand Rapids Main Campus,MI,11507,0,0,1,0,0,0,0,0,0,1
+169479024,Davenport University,Davenport University - Warren,MI,11507,0,0,0,0,0,0,0,0,0,0
+169479032,Davenport University,Davenport University - Holland,MI,11507,0,0,0,0,0,0,0,0,0,0
+186399001,Rutgers University-Newark,Rutgers University - Newark,NJ,11501,0,0,0,0,0,4,2,0,1,7
+141334001,University of West Georgia,Main Campus,GA,11500,0,0,1,0,2,0,24,2,3,32
+160755001,Tulane University of Louisiana,Main Campus,LA,11464,0,0,3,0,0,1,30,5,2,41
+160755002,Tulane University of Louisiana,Tulane University Health Sciences Center Campus,LA,11464,0,0,1,0,1,0,34,2,0,38
+160755004,Tulane University of Louisiana,Houston,TX,11464,0,0,0,0,0,0,0,0,0,0
+234827001,Central Washington University,Central Washington University,WA,11357,0,0,1,0,0,0,18,4,0,23
+234827002,Central Washington University,CWU-Yakima,WA,11357,0,0,0,0,0,0,0,0,0,0
+234827007,Central Washington University,CWU-Des Moines,WA,11357,0,0,0,0,0,0,0,0,0,0
+169521001,Delta College,Delta College,MI,11354,0,0,0,0,0,0,3,0,0,3
+122791001,College of San Mateo,College of San Mateo,CA,11310,0,0,0,0,1,0,0,0,0,1
+155061001,Fort Hays State University,Main Campus,KS,11308,0,0,0,0,0,0,9,1,0,10
+235097001,Eastern Washington University,Main Campus,WA,11300,0,0,5,0,3,0,9,0,0,17
+222576001,Amarillo College,Washington Street Campus,TX,11289,0,0,1,0,0,0,4,1,0,6
+159647001,Louisiana Tech University,Main Campus,LA,11264,0,0,0,0,1,3,17,3,1,25
+240268001,University of Wisconsin-Eau Claire,Main Campus,WI,11216,0,0,4,0,0,5,0,0,0,9
+198534001,Fayetteville Technical Community College,Fayetteville Technical Community College,NC,11203,0,0,0,0,1,0,0,1,0,2
+211440001,Carnegie Mellon University,Main Campus,PA,11197,0,0,3,0,1,0,16,1,0,21
+214379001,Northampton County Area Community College,Main Campus,PA,11196,0,0,1,0,0,3,0,0,1,5
+176965001,University of Central Missouri,Main Campus,MO,11191,0,0,2,0,1,2,64,2,0,71
+114266001,Evergreen Valley College,Evergreen Valley Community College,CA,11186,0,0,0,0,1,2,3,5,0,11
+138354001,The University of West Florida,Main Campus,FL,11143,0,0,0,0,0,0,3,6,1,10
+240189001,University of Wisconsin-Whitewater,Main Campus,WI,11139,0,0,3,0,0,2,9,0,0,14
+433660001,Florida Gulf Coast University,Main Campus,FL,11092,0,0,2,0,0,1,3,1,0,7
+364025001,Chandler/Gilbert Community College,Pecos Campus,AZ,11058,0,0,0,0,0,1,0,1,0,2
+364025002,Chandler/Gilbert Community College,CGCC/Williams Campus,AZ,11058,0,0,0,0,0,0,2,0,0,2
+229355001,Tyler Junior College,Tyler Campus,TX,11045,0,0,0,0,0,0,11,2,0,13
+165112001,Bunker Hill Community College,Main Campus,MA,11009,0,0,0,0,0,0,1,2,0,3
+211307001,Bucks County Community College,Main Campus,PA,11009,0,0,0,0,1,0,0,2,0,3
+227854001,St Philips College,Main Campus,TX,11008,0,0,0,0,1,0,4,10,0,15
+184782001,Rowan University,Main Campus,NJ,11006,0,0,0,0,1,2,11,2,0,16
+118930001,Mission College,Mission College,CA,10954,0,0,0,0,0,2,5,0,0,7
+105747001,Scottsdale Community College,Main Campus,AZ,10923,0,0,0,0,0,0,2,0,0,2
+126942001,Community College of Denver,CCD Auraria,CO,10918,0,0,4,0,2,4,16,7,0,33
+202480001,University of Dayton,Main Campus,OH,10908,0,0,5,0,1,0,25,7,0,38
+228246001,Southern Methodist University,Main Campus,TX,10891,0,0,7,0,3,2,33,9,0,54
+127918001,Regis University,Main Campus,CO,10874,0,0,0,0,0,1,3,5,0,9
+174914001,University of St Thomas,St. Paul Campus (Main Campus),MN,10851,0,0,0,0,0,0,15,1,2,18
+221847001,Tennessee Technological University,Tennessee Technological University,TN,10847,0,0,1,0,1,0,6,0,1,9
+187444001,William Paterson University of New Jersey,Main Campus,NJ,10820,0,0,1,0,0,1,14,4,0,20
+179557001,Southeast Missouri State University,Southeast Missouri State University,MO,10801,0,0,1,0,1,1,8,0,0,11
+165024001,Bridgewater State College,Main Campus,MA,10774,0,0,0,0,0,7,15,2,2,26
+117894001,Los Medanos College,Main Campus,CA,10773,0,0,0,0,0,3,5,0,0,8
+217235001,Johnson & Wales University,Main Campus,RI,10709,0,0,8,0,0,4,1,1,2,16
+213349001,Kutztown University of Pennsylvania,Main Campus,PA,10634,0,0,1,0,0,0,4,0,0,5
+174136001,Minneapolis Community and Technical College,Main Campus,MN,10618,0,0,1,0,0,0,6,1,0,8
+199102001,North Carolina A & T State University,North Carolina A&T State University,NC,10614,0,0,0,0,3,2,10,6,1,22
+233754001,Thomas Nelson Community College,Main Campus,VA,10606,0,0,0,0,1,0,0,0,0,1
+123299001,Shasta College,Main Campus,CA,10578,0,0,1,0,0,1,0,0,0,2
+131520001,Howard University,HOWARD UNIVERSITY MAIN CAMPUS,DC,10573,0,0,4,0,27,1,36,9,0,77
+123509001,Skyline College,Skyline College,CA,10561,0,0,0,0,0,1,5,2,0,8
+151324001,Indiana State University,Main Campus,IN,10534,0,0,1,0,1,6,22,0,0,30
+221740001,The University of Tennessee at Chattanooga,Main Campus,TN,10526,0,0,3,0,1,6,17,4,0,31
+151306001,University of Southern Indiana,Main Campus,IN,10516,0,0,4,0,0,0,4,0,0,8
+175315001,Century Community and Technical College,Main Campus,MN,10514,0,0,0,0,0,1,2,9,0,12
+214111001,Montgomery County Community College-Central Campus,Montgomery County Community College Central Campus,PA,10500,0,0,0,0,0,0,0,2,0,2
+172051001,Saginaw Valley State University,Saginaw Valley State University,MI,10498,0,0,3,0,1,0,18,0,0,22
+115393001,Hartnell College,Main Campus,CA,10451,0,0,1,0,0,0,5,3,0,9
+118718001,Merced College,Main Campus,CA,10446,0,0,0,0,0,0,4,1,0,5
+228529001,Tarleton State University,Main Campus,TX,10424,0,0,1,0,0,0,9,0,0,10
+190530001,CUNY Bronx Community College,Main Campus,NY,10420,0,0,0,0,12,2,7,9,0,30
+191126001,Fashion Institute of Technology,FASHION INSTITUTE OF TECHNOLOGY,NY,10413,0,0,1,1,0,0,1,0,0,3
+177968001,Lindenwood University,Lindenwood University,MO,10408,0,0,0,0,0,2,16,0,0,18
+166683001,Massachusetts Institute of Technology,Main Campus,MA,10384,0,0,3,0,2,1,126,2,1,135
+216597001,Villanova University,Main Campus,PA,10375,0,0,3,0,1,1,7,0,3,15
+221643001,Pellissippi State Technical Community College,Pellissippi Campus,TN,10297,0,0,0,0,0,0,0,0,0,0
+212106001,Duquesne University,Main Campus,PA,10294,0,0,3,0,1,1,13,3,1,22
+193654001,The New School,Main Campus,NY,10260,0,0,0,0,0,0,0,0,0,0
+107664001,Pulaski Technical College,Main Campus,AR,10255,0,0,0,0,0,3,2,1,0,6
+168148001,Tufts University,Medford/Somerville Campus,MA,10252,0,0,7,0,1,0,29,1,0,38
+168148002,Tufts University,Boston Campus,MA,10252,0,0,0,0,0,0,16,1,0,17
+113573001,College of the Desert,Main Campus,CA,10193,0,0,2,0,0,0,2,0,0,4
+219602001,Austin Peay State University,Main Campus,TN,10188,0,0,1,0,0,4,38,2,1,46
+117690001,Los Angeles Harbor College,Los Angeles Harbor College,CA,10181,0,0,1,0,1,1,12,0,0,15
+201928001,Cincinnati State Technical and Community College,Main Campus,OH,10165,0,0,1,0,0,1,1,0,0,3
+152248001,Purdue University-Calumet Campus,Main Campus,IN,10133,0,0,0,0,2,1,3,0,0,6
+167729001,Salem State College,Salem State University,MA,10125,0,0,0,0,0,0,18,0,0,18
+157401001,Murray State University,Main Campus,KY,10071,0,0,4,0,0,0,11,3,5,23
+176071001,Mississippi Gulf Coast Community College,Perkinston Campus,MS,10064,0,0,0,0,1,0,6,1,0,8
+176071002,Mississippi Gulf Coast Community College,Jefferson Davis Campus,MS,10064,0,0,0,0,0,0,0,0,0,0
+176071003,Mississippi Gulf Coast Community College,Jackson County Campus,MS,10064,0,0,0,0,0,0,3,0,0,3
+136400001,Pasco-Hernando Community College,West Campus,FL,10036,0,0,0,0,0,0,0,0,0,0
+136400003,Pasco-Hernando Community College,North Campus,FL,10036,0,0,0,0,0,0,0,0,0,0
+228158001,South Plains College,Main Campus,TX,10011,0,0,0,0,0,2,11,0,0,13
+240329001,University of Wisconsin-La Crosse,Main Campus,WI,10009,0,0,1,0,0,0,4,0,0,5
+144193001,City Colleges of Chicago-Richard J Daley College,Main Campus,IL,9991,0,0,0,0,0,0,0,3,0,3
+144193002,City Colleges of Chicago-Richard J Daley College,Arturo Velasques Institute,IL,9991,0,0,0,0,0,0,0,0,0,0
+126289001,Arapahoe Community College,Arapahoe Community College,CO,9969,0,0,0,0,0,0,0,2,0,2
+364016001,Paradise Valley Community College,Main Campus,AZ,9951,0,0,1,0,0,0,0,2,0,3
+140951001,Savannah College of Art and Design,Main Campus,GA,9906,0,0,0,0,0,0,1,3,0,4
+140951003,Savannah College of Art and Design,Savannah College of Art and Design-Atlanta,GA,9906,0,0,0,0,0,1,0,0,0,1
+190840001,Dutchess Community College,Main Campus,NY,9823,0,0,0,0,0,0,0,0,0,0
+366401001,Las Positas College,Main Campus,CA,9790,0,0,0,0,0,0,0,1,0,1
+366711001,California State University-San Marcos,Main Campus,CA,9767,0,0,0,0,0,0,1,3,0,4
+201645001,Case Western Reserve University,Main Campus,OH,9738,0,0,8,0,1,0,30,4,0,43
+126580001,University of Colorado at Colorado Springs,University of Colorado at Colorado Springs,CO,9733,0,0,0,0,0,1,11,1,0,13
+193016001,Mercy College,Mercy College - Dobbs Ferry Campus,NY,9673,0,0,0,0,0,0,0,0,0,0
+193016005,Mercy College,Mercy College - NYC Campus,NY,9673,0,0,0,0,0,0,0,0,0,0
+235103001,Edmonds Community College,Main Campus,WA,9658,0,0,0,0,0,3,2,2,0,7
+161554001,University of Southern Maine,Gorham Campus,ME,9655,0,0,3,0,0,0,2,1,0,6
+161554002,University of Southern Maine,Portland Campus,ME,9655,0,0,0,0,0,0,1,0,0,1
+131113004,Wilmington University,Georgetown,DE,9650,0,0,0,0,0,0,5,0,0,5
+147916001,Parkland College,Main Campus,IL,9633,0,0,0,0,0,0,5,0,0,5
+185509002,Mercer County Community College,James Kerney Campus,NJ,9621,0,0,0,0,0,0,0,0,0,0
+219471001,University of South Dakota,Main Campus,SD,9617,0,0,3,0,0,0,2,0,0,5
+186584001,Seton Hall University,Main Campus,NJ,9616,0,0,1,0,2,3,16,2,0,24
+186584002,Seton Hall University,Seton Hall Law School,NJ,9616,0,0,0,0,0,0,0,0,0,0
+119067001,Monterey Peninsula College,Monterey Campus,CA,9578,0,0,0,0,3,0,4,0,0,7
+119067002,Monterey Peninsula College,MPC Public Safety Training Center,CA,9578,0,0,0,0,0,0,0,0,0,0
+236708001,Spokane Falls Community College,Main Campus,WA,9555,0,0,0,0,0,1,0,4,0,5
+166887001,Middlesex Community College,BEDFORD campus,MA,9516,0,0,0,0,0,0,1,0,0,1
+166887002,Middlesex Community College,LOWELL Campus,MA,9516,0,0,0,0,2,0,1,0,0,3
+211158001,Bloomsburg University of Pennsylvania,Main Campus,PA,9512,0,0,1,0,0,4,5,0,0,10
+195030001,University of Rochester,Main Campus,NY,9506,0,0,8,0,3,4,19,7,0,41
+224147001,Texas A & M University-Corpus Christi,Main Campus,TX,9468,0,0,1,0,1,0,6,0,0,8
+113218001,Cuyamaca College,Cuyamaca College,CA,9459,0,0,0,0,0,0,1,0,0,1
+180814001,Bellevue University,Main Campus,NE,9448,0,0,0,0,0,0,0,0,0,0
+136516001,Polk Community College,Winter Haven Campus,FL,9437,0,0,0,0,0,0,0,0,0,0
+136516002,Polk Community College,Lakeland Campus,FL,9437,0,0,0,0,0,0,0,0,0,0
+219824001,Chattanooga State Technical Community College,Main Campus,TN,9431,0,0,0,0,0,0,1,0,0,1
+200004001,Western Carolina University,Main Campus,NC,9429,0,0,3,0,0,1,28,2,0,34
+171456001,Northern Michigan University,Main Campus,MI,9428,0,0,6,0,0,3,6,3,0,18
+229063001,Texas Southern University,Main Campus,TX,9394,0,0,0,0,7,15,67,8,0,97
+101480001,Jacksonville State University,Main Campus,AL,9351,0,0,0,0,0,0,8,0,0,8
+167987001,University of Massachusetts-Dartmouth,Main Campus,MA,9302,0,0,4,0,1,22,41,0,0,68
+217420001,Rhode Island College,Rhode Island College,RI,9260,0,0,2,0,0,0,6,2,0,10
+160038001,Northwestern State University of Louisiana,Main Campus,LA,9247,0,0,0,0,1,0,31,0,0,32
+207263001,Northeastern State University,Tahlequah,OK,9239,0,0,3,0,0,1,13,0,0,17
+154800001,Butler Community College,Main Campus,KS,9229,0,0,0,0,0,0,4,0,0,4
+240480001,University of Wisconsin-Stevens Point,Main Campus,WI,9209,0,0,0,0,0,0,21,0,1,22
+227146001,Navarro College,Main Campus,TX,9200,0,0,2,0,0,2,23,0,0,27
+194091001,New York Institute of Technology-Old Westbury,Main Campus,NY,9171,0,0,0,0,0,1,0,1,1,3
+168005001,Suffolk University,Main Campus,MA,9148,0,0,0,0,1,0,0,0,0,1
+198552001,Forsyth Technical Community College,Main Campus,NC,9144,0,0,0,0,0,7,1,1,0,9
+127909001,Red Rocks Community College,Red Rocks Community College,CO,9143,0,0,0,0,0,1,0,1,0,2
+102614001,University of Alaska Fairbanks,University of Alaska Fairbanks,AK,9137,0,0,5,0,0,1,3,0,0,9
+102614002,University of Alaska Fairbanks,Kuskokwim rural campus,AK,9137,0,0,0,0,0,0,0,0,0,0
+141796001,Kapiolani Community College,University of Hawaii - Kapiolani Community College,HI,9102,0,0,0,0,0,0,1,0,0,1
+224615001,El Centro College,El Centro College,TX,9072,0,0,0,0,0,0,0,0,0,0
+187620001,New Mexico State University-Dona Ana,Main Campus,NM,9021,0,0,0,0,2,8,58,15,1,84
+224554001,Texas A & M University-Commerce,Main Campus,TX,9021,0,0,1,0,0,2,19,0,2,24
+211361001,California University of Pennsylvania,Main Campus,PA,9017,0,0,2,0,0,0,2,0,0,4
+240417001,University of Wisconsin-Stout,Main Campus,WI,9017,0,0,2,0,0,0,21,0,0,23
+117946001,Loyola Marymount University,Main Campus,CA,9015,0,0,1,0,0,0,9,2,0,12
+122612001,University of San Francisco,Main Campus (San Francisco),CA,9008,0,0,4,0,2,2,2,1,0,11
+159993001,University of Louisiana Monroe,Main Campus,LA,9004,0,0,0,0,0,3,6,2,0,11
+198154001,Cape Fear Community College,Downtown Campus,NC,9001,0,0,0,0,0,0,1,1,0,2
+188100001,San Juan College,Main Campus,NM,8990,0,0,0,0,0,0,1,0,0,1
+207670001,Rose State College,Rose State College,OK,8981,0,0,0,0,0,0,16,2,0,18
+233949001,Virginia Western Community College,Main Campus,VA,8927,0,0,0,0,0,0,0,0,0,0
+209250001,Mt Hood Community College,Gresham Campus,OR,8897,0,0,0,0,1,0,8,25,0,34
+186034001,Passaic County Community College,Main Campus,NJ,8883,0,0,0,0,0,0,3,0,0,3
+233277001,Radford University,Main Campus,VA,8878,0,0,3,0,0,3,4,0,0,10
+228875001,Texas Christian University,Main Campus,TX,8853,0,0,6,0,0,3,8,6,0,23
+122931001,Santa Clara University,Main Campus - Santa Clara University,CA,8846,0,0,3,0,0,6,5,4,0,18
+132471001,Barry University,Main Campus,FL,8846,0,0,0,0,0,1,3,1,0,5
+185828001,New Jersey Institute of Technology,Main Campus,NJ,8840,0,0,0,0,0,0,3,0,0,3
+115861001,Imperial Valley College,Imperial Valley College - Main Campus,CA,8831,0,0,0,0,0,4,4,0,0,8
+221838001,Tennessee State University,Main Campus,TN,8824,1,0,0,0,6,4,17,5,0,33
+157386001,Morehead State University,Morehead State University,KY,8822,0,0,3,0,0,11,15,0,1,30
+106467001,Arkansas Tech University,Main Campus,AR,8814,0,0,2,0,0,0,3,1,0,6
+162122003,College of Southern Maryland,Prince Frederick Campus,MD,8810,0,0,0,0,0,0,0,0,0,0
+184603001,Fairleigh Dickinson University-Metropolitan Campus,Metropolitan,NJ,8804,0,0,0,0,0,0,1,0,0,1
+175856001,Jackson State University,Main Campus,MS,8783,0,0,0,0,2,35,24,4,0,65
+162779001,Howard Community College,Howard Community College,MD,8778,0,0,0,0,0,0,0,0,0,0
+165033001,Bristol Community College,Main Campus,MA,8767,0,0,0,0,0,0,2,0,0,2
+144166001,City Colleges of Chicago-Malcolm X College,Main Campus,IL,8718,0,0,0,0,0,0,0,0,0,0
+175272001,Winona State University,Main Campus,MN,8657,0,0,1,0,0,0,3,0,1,5
+216038001,Slippery Rock University of Pennsylvania,Main Campus,PA,8648,0,0,3,0,0,2,5,0,0,10
+120421001,Oxnard College,Main Campus,CA,8642,0,0,0,0,1,1,8,1,0,11
+159717001,McNeese State University,Main Campus,LA,8638,0,0,1,0,2,1,3,2,0,9
+227526001,Prairie View A & M University,Main Campus,TX,8608,0,0,2,0,2,5,19,11,0,39
+199157001,North Carolina Central University,North Carolina Central University,NC,8587,0,0,2,0,3,4,36,7,0,52
+110495001,California State University-Stanislaus,CSU Stanislaus - Turlock,CA,8586,0,0,0,0,0,3,5,6,0,14
+101505001,Jefferson State Community College,Jefferson,AL,8581,0,0,0,0,0,0,0,0,0,0
+217156001,Brown University,Main Campus,RI,8574,0,0,10,1,1,1,67,0,0,80
+126119003,Yuba College,Clear Lake Center,CA,8564,0,0,0,0,0,0,0,0,0,0
+123572001,Sonoma State University,Sonoma State University,CA,8546,0,0,2,0,0,0,6,4,0,12
+109785001,Azusa Pacific University,Azusa (main campus),CA,8539,0,0,6,0,2,5,16,6,0,35
+109785008,Azusa Pacific University,Murrieta Regional Center,CA,8539,0,0,0,0,0,0,0,0,0,0
+109785009,Azusa Pacific University,Ventura Regional Center,CA,8539,0,0,0,0,0,0,0,0,0,0
+196121001,SUNY College at Brockport,Main Campus,NY,8490,0,0,1,0,0,2,8,0,0,11
+144209001,City Colleges of Chicago-Harold Washington College,Main Campus,IL,8464,0,0,0,0,1,0,0,0,0,1
+222053001,Volunteer State Community College,Main Campus,TN,8430,0,0,0,0,0,0,0,0,0,0
+214041001,Millersville University of Pennsylvania,Main Campus,PA,8427,0,0,0,0,0,2,43,0,0,45
+185129001,New Jersey City University,Main Campus,NJ,8399,0,0,0,0,1,1,3,0,0,5
+151342001,Indiana University-South Bend,Main Campus,IN,8394,0,0,0,0,0,0,10,1,0,11
+171137001,University of Michigan-Dearborn,Main Campus,MI,8379,0,0,0,0,0,0,0,11,0,11
+218724001,Coastal Carolina University,Main Campus,SC,8360,0,0,0,0,0,4,36,4,0,44
+167534001,Quinsigamond Community College,Main Campus,MA,8349,0,0,0,0,0,0,6,1,0,7
+215770001,Saint Joseph's University,Main Campus,PA,8337,0,0,2,0,0,0,37,0,0,39
+246354001,Palo Alto College,Main Campus,TX,8335,0,0,1,0,0,0,2,3,0,6
+112826001,Contra Costa College,Main Campus,CA,8316,0,0,1,0,11,2,3,8,0,25
+235149001,Everett Community College,Everett Community College,WA,8313,0,0,0,0,0,0,0,5,0,5
+192439001,Long Island University-Brooklyn Campus,Main Campus,NY,8298,0,0,0,0,0,0,4,0,0,4
+212160001,Edinboro University of Pennsylvania,Main Campus,PA,8286,0,0,1,0,0,1,31,1,0,34
+216010001,Shippensburg University of Pennsylvania,Main Campus,PA,8253,0,0,1,0,3,0,16,0,0,20
+133881001,Florida Institute of Technology,Main Campus,FL,8227,0,0,0,0,0,0,6,1,0,7
+176178001,Northwest Mississippi Community College,Senatobia Campus,MS,8211,0,0,0,0,1,0,7,1,0,9
+179308001,Saint Louis Community College-Forest Park,FOREST PARK,MO,8207,0,0,1,0,1,2,0,0,1,5
+179308002,Saint Louis Community College-Forest Park,HARRISON CENTER,MO,8207,0,0,0,0,0,0,0,0,0,0
+235343001,Green River Community College,Main Campus,WA,8205,0,0,0,0,4,1,1,6,0,12
+163851001,Salisbury University,Main Campus,MD,8204,0,0,2,0,3,7,24,0,0,36
+226930001,Mountain View College,MOUNTAIN VIEW COLLEGE,TX,8203,0,0,0,0,0,0,0,20,0,20
+157711001,Somerset Community College,Main Campus,KY,8195,0,0,0,0,0,0,2,0,0,2
+157711003,Somerset Community College,Somerset Campus South,KY,8195,0,0,0,0,0,0,1,0,0,1
+228705001,Texas A & M University-Kingsville,Texas A&M University Kingsville,TX,8194,0,0,1,0,2,0,37,2,0,42
+146603001,Lewis and Clark Community College,Main Campus,IL,8179,0,0,0,0,0,2,5,0,0,7
+139366001,Columbus State University,Columbus State University,GA,8178,0,0,0,0,1,0,9,2,1,13
+221768001,The University of Tennessee-Martin,Main Campus,TN,8163,0,0,0,0,0,0,4,0,0,4
+208406001,Clackamas Community College,Main Campus,OR,8145,0,0,0,0,0,1,2,6,0,9
+142559001,College of Southern Idaho,Main Campus,ID,8133,0,0,1,0,0,1,7,0,0,9
+196194001,SUNY College at Oswego,Main Campus,NY,8119,0,0,1,0,0,0,46,0,2,49
+141644001,Hawaii Pacific University,Main Campus,HI,8113,0,0,0,0,0,0,1,0,0,1
+141644002,Hawaii Pacific University,Windward Hawaii Loa campus,HI,8113,0,0,0,0,0,0,0,0,0,0
+141644003,Hawaii Pacific University,Oceanic Institute campus,HI,8113,0,0,0,0,0,0,0,0,0,0
+437103001,Baton Rouge Community College,Baton Rouge Community College,LA,8104,0,0,0,0,0,2,10,2,0,14
+114938001,Gavilan College,Main Campus,CA,8087,0,0,0,0,0,0,10,0,0,10
+140447001,Mercer University,Macon Campus,GA,8072,0,0,0,0,0,1,7,0,0,8
+140447002,Mercer University,Atlanta Campus,GA,8072,0,0,0,0,0,0,0,0,0,0
+230603001,Southern Utah University,Main Campus,UT,8066,0,0,1,0,0,0,11,3,0,15
+110486001,California State University-Bakersfield,Main Campus,CA,8003,0,0,0,0,0,0,29,4,0,33
+104160001,Arizona Western College,Main Campus,AZ,7984,0,0,0,0,0,0,1,1,0,2
+167312002,North Shore Community College,Lynn Campus,MA,7968,0,0,0,0,0,0,0,1,0,1
+115755001,Humboldt State University,Humboldt State University,CA,7954,0,0,1,0,2,0,7,0,1,11
+188429001,Adelphi University,Main Campus,NY,7951,0,0,1,0,0,0,3,0,0,4
+202806001,Franklin University,Main Campus,OH,7942,0,0,0,0,0,0,0,1,0,1
+166823001,Massasoit Community College,Main Campus,MA,7941,0,0,0,0,0,0,1,2,0,3
+196176001,SUNY College at New Paltz,Main Campus,NY,7907,0,0,3,0,1,2,12,0,1,19
+186645001,Raritan Valley Community College,Raritan Valley Community College,NJ,7888,0,0,0,0,0,0,0,0,0,0
+231624001,College of William and Mary,Main Campus,VA,7874,0,0,5,0,1,3,17,0,1,27
+122436001,University of San Diego,UNIVERSITY OF SAN DIEGO,CA,7868,0,0,3,0,1,2,41,6,0,53
+117715001,Los Angeles Southwest College,Los Angeles Southwest College,CA,7866,0,0,0,0,3,1,10,0,0,14
+105145001,Gateway Community College,Main Campus,AZ,7863,0,0,0,0,0,0,0,4,0,4
+262031001,St Charles Community College,ST CHARLES COMMUNITY COLLEGE,MO,7814,0,0,0,0,0,0,0,0,0,0
+240462001,University of Wisconsin-Platteville,Main Campus,WI,7803,0,0,4,0,0,1,9,1,2,17
+390701001,Everest University-South Orlando,Everest University Orlando South,FL,7799,0,0,0,0,0,1,1,0,0,2
+190691001,CUNY York College,YORK COLLEGE,NY,7780,0,0,0,0,0,0,9,0,0,9
+236513001,Seattle Community College-Central Campus,Main Campus,WA,7774,0,0,0,0,0,2,2,0,0,4
+171146001,University of Michigan-Flint,Main Campus,MI,7773,0,0,1,0,3,2,8,7,0,21
+130226001,Quinnipiac University,Main Campus,CT,7758,0,0,1,0,0,0,1,0,0,2
+236595001,Seattle University,Main Campus,WA,7751,0,0,0,0,0,0,5,3,0,8
+240125001,Waukesha County Technical College,Main Campus,WI,7749,0,0,0,0,0,0,0,0,0,0
+121150001,Pepperdine University,Malibu - Main Campus,CA,7733,0,0,0,0,0,0,22,0,0,22
+170444001,Jackson Community College,Main Campus,MI,7729,0,0,1,0,0,3,19,1,0,24
+230171001,Dixie State College of Utah,Main Campus,UT,7708,0,0,0,0,0,0,2,0,0,2
+145725001,Illinois Institute of Technology,Main Campus,IL,7707,0,0,0,0,13,2,13,3,0,31
+145725005,Illinois Institute of Technology,Institute of Design,IL,7707,0,0,0,0,0,0,0,0,0,0
+100706001,University of Alabama in Huntsville,Main Campus,AL,7681,0,0,1,0,0,1,11,2,0,15
+146685001,Lincoln Land Community College,Main Campus,IL,7677,0,0,0,0,0,0,0,0,0,0
+225414001,University of Houston-Clear Lake,University of Houston Clear-Lake,TX,7643,0,0,0,0,1,0,1,2,0,4
+229814001,West Texas A & M University,Main Campus,TX,7634,0,0,1,0,0,0,12,0,0,13
+235316001,Gonzaga University,Main Campus,WA,7633,0,0,3,0,0,0,19,9,0,31
+160621001,Southern University and A & M College,SOUTHERN UNIVERSITY-BATON ROUGE,LA,7619,0,0,0,0,1,2,10,7,0,20
+175829001,Itawamba Community College,Itawamba Community College - Fulton,MS,7596,0,0,0,0,0,0,3,0,0,3
+186131001,Princeton University,Main Campus,NJ,7592,0,0,9,0,0,0,45,2,3,59
+183655001,Atlantic Cape Community College,Main Campus,NJ,7588,0,0,0,0,0,0,6,0,0,6
+183655003,Atlantic Cape Community College,Cape May County Campus,NJ,7588,0,0,0,0,0,0,0,0,0,0
+212115001,East Stroudsburg University of Pennsylvania,Main Campus,PA,7576,0,0,2,0,1,0,8,0,0,11
+186876001,The Richard Stockton College of New Jersey,Main Campus,NJ,7559,0,0,0,0,0,2,12,0,0,14
+197887001,Asheville-Buncombe Technical Community College,Asheville Campus,NC,7542,0,0,0,0,1,0,0,4,0,5
+138789001,Armstrong Atlantic State University,Armstrong Atlantic State University,GA,7538,0,0,0,0,0,1,6,0,0,7
+236188001,Olympic College,Bremerton Campus,WA,7536,0,0,0,0,0,0,2,0,0,2
+134237001,Full Sail University,Main Campus,FL,7516,0,0,0,0,2,0,1,0,0,3
+174358001,Minnesota State University-Moorhead,Main Campus,MN,7510,0,0,3,0,0,0,3,0,0,6
+174358002,Minnesota State University-Moorhead,Regional Science Center,MN,7510,0,0,0,0,0,0,0,0,0,0
+130916002,Delaware Technical and Community College-Stanton-Wilmington,Wilmington Campus,DE,7488,0,0,0,0,0,0,0,0,0,0
+141811001,Leeward Community College,Leeward Community College,HI,7484,0,0,0,0,0,0,0,2,0,2
+117140001,University of La Verne,MAIN CAMPUS,CA,7482,0,0,0,0,0,0,16,3,0,19
+166133001,Holyoke Community College,Main Campus,MA,7473,0,0,0,0,1,2,7,0,0,10
+157483001,West Kentucky Community and Technical College,WEST KENTUCKY COM. & TECH. COLLEGE,KY,7464,0,0,0,0,0,1,9,0,0,10
+236692001,Spokane Community College,Main Campus,WA,7445,0,0,0,0,0,0,6,7,0,13
+174376001,North Hennepin Community College,Main Campus,MN,7444,0,0,0,0,0,0,0,6,0,6
+167376001,Northern Essex Community College,Main Campus,MA,7385,0,0,0,0,0,0,0,3,0,3
+181002001,Creighton University,Main Campus,NE,7385,0,0,2,0,0,1,4,0,0,7
+174020001,Metropolitan State University,Main Campus,MN,7354,0,0,0,0,1,0,2,0,0,3
+211644001,Clarion University of Pennsylvania,Main Campus,PA,7346,0,0,3,0,0,2,2,0,0,7
+108092001,University of Arkansas-Fort Smith,Main Campus,AR,7335,0,0,0,1,0,0,11,0,0,12
+196149001,SUNY College at Cortland,Main Campus,NY,7322,0,0,4,0,0,0,16,0,1,21
+180902002,Central Community College,Central Community College-Columbus,NE,7320,0,0,0,0,2,0,1,0,0,3
+180902003,Central Community College,Central Community College - Hastings,NE,7320,0,0,0,0,0,0,0,0,0,0
+139278003,West Central Technical College,Murphy Campus,GA,7313,0,0,0,0,0,1,0,0,0,1
+148487001,Roosevelt University,Chicago Campus,IL,7306,0,0,0,0,0,1,4,0,0,5
+108667001,College of Alameda,Main Campus,CA,7302,0,0,0,0,1,1,6,0,0,8
+118772001,Merritt College,Merrit Community College,CA,7295,0,0,0,0,0,1,5,4,0,10
+119331001,Napa Valley College,Main Campus,CA,7282,0,0,0,0,0,0,2,1,0,3
+111434001,Canada College,Canada College,CA,7280,0,0,0,0,0,0,3,0,0,3
+193946001,Niagara County Community College,Main Campus,NY,7279,0,0,1,0,1,0,1,0,0,3
+155681001,Pittsburg State University,Pittsburg State University,KS,7277,0,0,1,0,0,2,6,0,1,10
+144005001,Chicago State University,Main Campus,IL,7235,0,0,0,0,2,1,1,2,0,6
+163453001,Morgan State University,Main Campus,MD,7226,0,0,0,0,7,2,20,1,0,30
+129525001,University of Hartford,Main Campus,CT,7212,0,0,3,0,5,3,14,1,0,26
+191339001,Genesee Community College,Batavia Campus,NY,7208,0,0,0,0,0,0,1,0,0,1
+101879001,University of North Alabama,Main Campus,AL,7194,0,0,1,0,0,0,11,0,0,12
+144157001,City Colleges of Chicago-Kennedy-King College,Main Campus,IL,7180,0,0,0,0,2,0,0,3,0,5
+159966001,Nicholls State University,Main Campus,LA,7169,0,0,1,0,0,3,4,0,0,8
+155292001,Kansas City Kansas Community College,KCKCC CAMPUS,KS,7137,0,0,0,0,0,0,0,0,0,0
+171128001,Michigan Technological University,Main Campus,MI,7136,0,0,2,0,0,0,6,1,0,9
+183026001,Southern New Hampshire University,Main Campus,NH,7119,0,0,2,0,0,0,0,0,0,2
+190646001,CUNY Medgar Evers College,MEDGAR EVERS COLLEGE,NY,7080,0,0,0,0,0,6,4,0,0,10
+199847001,Wake Forest University,Main Campus,NC,7079,0,0,6,0,1,0,53,4,1,65
+199847002,Wake Forest University,Bowman Gray Campus,NC,7079,0,0,0,0,0,3,0,2,0,5
+178624001,Northwest Missouri State University,Northwest Missouri State University,MO,7076,0,0,4,0,0,0,44,2,0,50
+118347001,College of Marin,Kentfield,CA,7066,0,0,0,0,0,0,2,0,0,2
+165820001,Fitchburg State College,Main Campus,MA,7043,0,0,0,0,0,5,13,3,0,21
+127556001,Mesa State College,Mesa State - Main Campus,CO,7042,0,0,0,0,1,0,10,0,0,11
+232195002,Germanna Community College,Fredericksburg Area Campus,VA,7035,0,0,0,0,0,0,0,0,0,0
+213543001,Lehigh University,Main Campus,PA,6996,0,0,1,0,3,0,9,1,0,14
+232937001,Norfolk State University,Norfolk State University,VA,6993,0,0,2,0,2,4,55,4,2,69
+196042001,Farmingdale State College,Main Campus,NY,6988,0,0,0,0,0,0,4,0,0,4
+187134001,The College of New Jersey,Main Campus,NJ,6980,0,0,0,0,0,0,6,1,0,7
+206622001,Xavier University,Main Campus,OH,6966,0,0,6,0,3,0,3,1,0,13
+161864001,Baltimore City Community College,Liberty Campus,MD,6953,0,0,0,0,0,0,0,0,0,0
+125170001,Berkeley City College,Main Campus,CA,6945,0,0,0,0,0,0,0,0,0,0
+101240001,Gadsden State Community College,Gadsden State Community College,AL,6917,0,0,0,0,0,2,1,0,0,3
+194824001,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,NY,6901,0,0,0,0,2,0,1,0,0,3
+191968001,Ithaca College,Main Campus,NY,6894,0,0,1,0,0,0,9,0,6,16
+189547001,Broome Community College,Main Campus,NY,6877,0,0,0,0,0,0,2,0,0,2
+194240002,Orange County Community College,NEWBURGH,NY,6876,0,0,0,0,0,1,0,0,0,1
+130396001,Gateway Community College,LONG WHARF,CT,6847,0,0,0,0,2,0,0,1,0,3
+236753001,Tacoma Community College,Tacoma Community College,WA,6825,0,0,0,0,0,0,2,8,0,10
+178411001,Missouri University of Science and Technology,MO S&T Main Campus,MO,6814,0,0,5,0,0,1,10,1,0,17
+147004001,McHenry County College,Main Campus,IL,6811,0,0,1,0,0,1,3,0,0,5
+104346001,Central Arizona College,Main Campus-Signal Peak,AZ,6795,0,0,0,0,0,1,23,2,1,27
+104346003,Central Arizona College,SUPERSTITION MOUNTAIN CAMPUS,AZ,6795,0,0,0,0,0,0,0,0,0,0
+167905001,Springfield Technical Community College,Main Campus,MA,6782,0,0,0,0,1,1,9,0,0,11
+131283001,Catholic University of America,The Catholic University of America,DC,6768,0,0,2,0,1,1,22,3,0,29
+225627001,University of the Incarnate Word,Main Campus,TX,6756,0,0,0,0,0,0,14,0,0,14
+175078001,Southwest Minnesota State University,Southwest Minnesota State University,MN,6740,0,0,0,0,0,1,2,0,0,3
+173559001,Minnesota State Community and Technical College,Main Campus - Fergus Falls,MN,6732,0,0,0,0,0,2,2,0,0,4
+240471001,University of Wisconsin-River Falls,University of Wisconsin River Falls,WI,6728,0,0,1,0,0,0,1,1,0,3
+235431001,Highline Community College,Highline Community College,WA,6725,0,0,1,0,3,0,3,8,0,15
+191199001,Finger Lakes Community College,Main Campus,NY,6699,0,0,1,0,0,1,1,0,0,3
+112686001,El Camino College-Compton Center,El Camino College Compton Center,CA,6691,0,0,0,0,1,0,11,7,0,19
+130004001,Norwalk Community College,Norwalk Community College (Main Campus),CT,6685,0,0,0,0,0,0,0,0,0,0
+193283001,Mohawk Valley Community College-Utica Branch,Main Campus,NY,6667,0,0,1,0,1,1,7,0,0,10
+199281001,University of North Carolina at Pembroke,Main Campus,NC,6661,0,0,0,2,0,1,15,2,0,20
+156082001,Washburn University,WASHBURN UNIVERSITY,KS,6652,0,0,4,0,0,0,11,1,0,16
+181215001,University of Nebraska at Kearney,University of Nebraska at Kearney,NE,6650,0,0,0,0,0,0,7,0,0,7
+140012001,Gwinnett Technical College,Main Campus,GA,6649,0,0,0,0,0,0,0,1,0,1
+240277001,University of Wisconsin-Green Bay,Main Campus,WI,6638,0,0,3,0,0,0,1,1,0,5
+139861001,Georgia College & State University,Milledgeville Campus,GA,6633,0,0,0,0,0,0,1,0,0,1
+229841001,Wharton County Junior College,Main Campus,TX,6622,0,0,0,0,0,0,0,0,0,0
+130776001,Western Connecticut State University,Mid Town Campus,CT,6617,0,0,1,0,1,0,4,0,0,6
+130776002,Western Connecticut State University,West Side Campus,CT,6617,0,0,0,0,2,3,2,4,0,11
+127884001,Pueblo Community College,Main Campus,CO,6592,0,0,0,0,0,0,2,0,0,2
+139311001,Clayton State University,Clayton State University,GA,6587,0,0,0,0,0,0,1,1,0,2
+236072001,Seattle Community College-North Campus,Main Campus,WA,6524,0,0,0,0,0,0,3,0,1,4
+209074001,Linn-Benton Community College,LBCC Main Campus,OR,6512,0,0,0,0,0,0,0,1,0,1
+209074005,Linn-Benton Community College,Lebanon Center,OR,6512,0,0,0,0,0,0,0,0,0,0
+198570001,Gaston College,Main Campus,NC,6507,0,0,0,0,0,0,0,1,0,1
+185572001,Monmouth University,Monmouth University,NJ,6499,0,0,7,0,0,5,16,5,0,33
+107044001,Harding University,Main Campus,AR,6484,0,0,0,0,0,0,24,6,0,30
+213367001,La Salle University,LA SALLE UNIVERSITY,PA,6470,0,0,2,0,5,3,13,0,0,23
+175810001,Holmes Community College,Main Campus,MS,6466,0,0,0,0,0,4,14,0,0,18
+196246001,SUNY College at Plattsburgh,Main Campus,NY,6453,0,0,6,0,0,0,26,0,1,33
+196246002,SUNY College at Plattsburgh,Queensbury,NY,6453,0,0,0,0,0,0,0,0,0,0
+128106001,Colorado State University-Pueblo,Colorado State University-Pueblo,CO,6443,0,0,1,0,0,1,9,0,1,12
+199999001,Winston-Salem State University,Main Campus,NC,6427,0,0,0,0,6,2,78,5,0,91
+226152001,Texas A & M International University,Main Campus,TX,6419,0,0,1,0,0,0,5,2,0,8
+366252001,Pennsylvania College of Technology,Main Campus,PA,6409,0,0,0,0,0,1,11,0,0,12
+120883001,University of the Pacific,Main Campus,CA,6401,0,0,2,0,0,0,19,2,1,24
+111948001,Chapman University,Main Campus,CA,6398,0,0,1,0,0,0,20,6,1,28
+173708001,Hennepin Technical College,Main campus,MN,6395,0,0,0,0,0,0,0,0,0,0
+222831001,Angelo State University,Main Campus,TX,6387,0,0,0,0,0,1,8,0,0,9
+163259001,University of Maryland-Baltimore,Main Campus,MD,6382,0,0,0,0,2,0,0,0,0,2
+113111001,Crafton Hills College,Main Campus,CA,6380,0,0,0,0,0,0,6,0,0,6
+226019001,Kilgore College,Kilgore College,TX,6375,0,0,0,0,0,0,1,0,0,1
+226833001,Midwestern State University,Main Campus,TX,6341,0,0,0,0,0,1,12,0,0,13
+155025001,Emporia State University,Emporia State University,KS,6314,0,0,2,0,0,0,9,1,0,12
+101295001,George C Wallace State Community College-Hanceville,Main Campus,AL,6311,0,0,0,0,0,0,0,0,0,0
+201104001,Ashland University,Ashland University,OH,6300,0,0,1,0,0,0,14,0,2,17
+201104003,Ashland University,Elyria Program Center,OH,6300,0,0,0,0,0,0,0,0,1,1
+230861001,Community College of Vermont,660 Elm Street,VT,6299,0,0,0,0,0,0,1,0,0,1
+177995001,Metropolitan Community College-Longview,Main Campus,MO,6292,0,0,0,0,0,0,2,0,0,2
+137847001,The University of Tampa,Main Campus,FL,6291,0,0,4,0,1,0,18,3,0,26
+198543001,Fayetteville State University,Main Campus,NC,6283,0,0,0,0,3,1,53,13,0,70
+236610001,Shoreline Community College,Shoreline Community College,WA,6277,0,0,0,0,0,1,0,0,0,1
+174738001,Rochester Community and Technical College,University Center Rochester,MN,6269,0,0,0,0,2,0,0,0,0,2
+143279001,Black Hawk College,Moline Campus,IL,6267,0,0,0,0,0,0,0,0,0,0
+143279002,Black Hawk College,Kewanee Campus,IL,6267,0,0,0,0,0,0,0,0,0,0
+161873001,University of Baltimore,Main Campus,MD,6265,0,0,0,0,1,0,0,0,0,1
+161545001,Southern Maine Community College,Southern Maine Community College,ME,6261,0,0,2,0,0,0,0,0,0,2
+208318001,Central Oregon Community College,Main Campus,OR,6261,0,0,0,0,0,0,0,0,0,0
+218964001,Winthrop University,Winthrop University,SC,6241,0,0,0,0,0,0,2,0,0,2
+197708001,Yeshiva University,Wilf Campus,NY,6228,0,0,0,0,0,0,12,0,0,12
+197708002,Yeshiva University,BEREN CAMPUS,NY,6228,0,0,0,0,0,0,2,0,0,2
+197708003,Yeshiva University,BROOKDALE CENTER,NY,6228,0,0,0,0,0,0,1,0,0,1
+197708004,Yeshiva University,RESNICK CAMPUS,NY,6228,0,0,0,0,0,1,3,0,0,4
+173799001,Inver Hills Community College,Main Campus,MN,6215,0,0,1,0,0,1,2,0,0,4
+228802001,The University of Texas at Tyler,Main Campus,TX,6201,0,0,0,1,0,1,1,2,0,5
+190585001,CUNY Hostos Community College,Main Campus,NY,6187,0,0,1,0,0,1,4,0,0,6
+192819001,Marist College,Main Campus,NY,6179,0,0,4,0,0,2,23,0,0,29
+206914001,Cameron University,Cameron University,OK,6126,0,0,0,0,0,2,27,1,0,30
+153630001,Iowa Western Community College,Main Campus,IA,6100,0,0,1,0,0,4,28,1,0,34
+236504001,Seattle Community College-South Campus,South Seattle Community College,WA,6074,0,0,0,0,0,0,3,2,0,5
+163046001,Loyola College in Maryland,Loyola University Maryland,MD,6067,0,0,2,0,0,0,5,0,0,7
+186283001,Rider University,Main Campus,NJ,6036,0,0,0,0,1,1,21,1,0,24
+186283002,Rider University,Westminster Choir College of Rider University,NJ,6036,0,0,0,0,0,0,2,0,0,2
+186201001,Ramapo College of New Jersey,Main Campus,NJ,6026,0,0,3,0,0,0,16,3,3,25
+130253001,Sacred Heart University,Main Campus,CT,6023,0,0,1,0,0,1,18,2,0,22
+175041001,Saint Paul College - A Community and Technical College,Main Campus,MN,6010,0,0,0,0,0,0,0,1,0,1
+165866001,Framingham State College,Main Campus,MA,5989,0,0,6,0,0,0,8,0,0,14
+183804001,Beth Medrash Govoha,Main Campus,NJ,5988,0,0,0,0,0,0,0,0,0,0
+229319001,Texas State Technical College Harlingen,Texas State Technical College Harlingen,TX,5988,0,0,1,0,1,1,1,0,0,4
+182670001,Dartmouth College,Main Campus,NH,5987,0,0,10,0,0,0,5,1,2,18
+110097001,Biola University,Main Campus,CA,5942,0,0,0,0,0,0,0,5,0,5
+153524001,Iowa Central Community College,Main Campus,IA,5905,0,0,1,0,0,0,10,0,0,11
+198136001,Campbell University Inc,Main Campus,NC,5894,0,0,0,0,1,0,12,0,0,13
+196185001,SUNY College at Oneonta,Main Campus,NY,5893,0,0,1,0,0,0,13,0,0,14
+229780001,Wayland Baptist University,Main Campus,TX,5886,0,0,0,0,0,1,5,0,0,6
+138691001,Darton College,Main Campus,GA,5854,0,0,0,0,0,0,1,0,0,1
+146612001,Lewis University,Main Campus,IL,5847,0,0,2,0,0,0,5,0,0,7
+145619001,Benedictine University,Main Campus,IL,5836,0,0,1,0,0,1,5,1,0,8
+154572001,Western Iowa Tech Community College,Sioux City Campus,IA,5829,0,0,0,0,0,2,5,0,0,7
+137281003,Saint Johns River Community College,St. Augustine Campus,FL,5826,0,0,0,0,0,0,0,0,0,0
+215929001,University of Scranton,The University of Scranton,PA,5811,0,0,3,0,0,0,0,0,0,3
+143358001,Bradley University,Main Campus,IL,5800,0,0,2,0,1,2,34,0,1,40
+178615001,Truman State University,Main Campus,MO,5781,0,0,2,0,0,0,4,1,0,7
+186371001,Rutgers University-Camden,Rutgers University-Camden Division,NJ,5781,0,0,0,0,0,2,4,1,0,7
+196158001,SUNY at Fredonia,Main Campus,NY,5774,0,0,1,0,0,0,6,0,0,7
+129941001,University of New Haven,Main Campus,CT,5770,0,0,3,0,2,0,9,1,0,15
+186867001,Stevens Institute of Technology,Main Campus,NJ,5757,0,0,0,0,0,3,0,1,0,4
+126711001,Colorado Mountain College,Main Campus,CO,5741,0,0,0,0,0,0,0,0,0,0
+178387001,Missouri Western State University,Main Campus,MO,5703,0,0,0,0,0,0,7,0,0,7
+178341001,Missouri Southern State University,Main Campus,MO,5701,0,0,2,0,0,0,8,0,0,10
+168263001,Westfield State College,Main Campus,MA,5675,0,0,7,0,0,0,3,0,1,11
+145336001,Governors State University,Main Campus,IL,5674,0,0,0,0,0,0,0,0,0,0
+198516001,Elon University,Elon University,NC,5666,0,0,0,0,0,1,20,0,0,21
+196167001,SUNY at Geneseo,SUNY at Geneseo,NY,5660,0,0,3,0,0,1,9,0,1,14
+142443001,North Idaho College,Main Campus,ID,5659,0,0,0,0,0,0,5,1,0,6
+228608001,Temple College,Main Campus,TX,5659,0,0,2,0,1,1,11,0,0,15
+153269001,Drake University,Main Campus,IA,5653,0,0,0,0,0,0,6,3,0,9
+210429001,Western Oregon University,Main Campus,OR,5649,0,0,2,0,0,0,8,1,1,12
+164739001,Bentley University,Main Campus,MA,5628,0,0,2,0,0,7,16,0,3,28
+162007001,Bowie State University,Main Campus,MD,5617,0,0,2,0,0,8,26,1,0,37
+129215001,Eastern Connecticut State University,Eastern Connecticut State University,CT,5610,0,0,1,0,0,2,2,1,0,6
+129543001,Housatonic Community College,Main Campus,CT,5609,0,0,0,0,0,0,0,0,0,0
+165015001,Brandeis University,Main Campus,MA,5598,0,0,1,0,0,2,8,0,1,12
+227401001,Paris Junior College,Main Campus,TX,5580,0,0,0,0,0,2,12,0,0,14
+198455001,Durham Technical Community College,Main Campus,NC,5578,0,0,0,0,0,0,8,0,0,8
+227757001,Rice University,Main Campus,TX,5576,0,0,2,0,0,0,33,0,0,35
+100830001,Auburn University-Montgomery,Auburn University Montgomery,AL,5567,0,0,0,0,0,0,2,1,0,3
+218520001,Piedmont Technical College,Lex Walter's Campus,SC,5566,0,0,0,0,0,0,0,0,0,0
+174817001,Saint Mary's University of Minnesota,Main Campus SAINT MARY'S UNIVERSITY OF MINNESOTA,MN,5565,0,0,1,0,0,0,13,1,1,16
+174817002,Saint Mary's University of Minnesota,Twin Cities Campus,MN,5565,0,0,0,0,0,0,0,0,0,0
+100724001,Alabama State University,Main Campus,AL,5564,0,0,0,0,4,4,4,1,0,13
+217059001,York College Pennsylvania,York College,PA,5564,0,0,2,0,0,0,7,2,0,11
+151360001,Indiana University-Northwest,Main Campus,IN,5560,0,0,0,0,0,1,1,2,0,4
+126207001,Aims Community College,Main Campus,CO,5510,0,0,0,0,0,0,0,0,0,0
+168430001,Worcester State College,Main Campus,MA,5473,0,0,0,0,0,0,1,1,0,2
+166647001,Massachusetts Bay Community College,Main Campus,MA,5456,0,0,0,0,0,0,0,0,0,0
+166647002,Massachusetts Bay Community College,Framingham,MA,5456,0,0,0,0,0,0,0,0,0,0
+155195001,Hutchinson Community College,Main Campus,KS,5453,0,0,1,0,0,2,2,0,3,8
+209940005,Rogue Community College,RIVERSIDE CAMPUS,OR,5441,0,0,0,0,0,0,0,0,0,0
+158431001,Bossier Parish Community College,Main Campus,LA,5430,0,0,0,0,0,0,0,0,0,0
+219709001,Belmont University,Main Campus,TN,5424,0,0,1,0,0,0,7,0,0,8
+222822001,Angelina College,Main Campus - ANGELINA COLLEGE,TX,5422,0,0,0,0,0,0,1,1,0,2
+218742001,University of South Carolina-Upstate,University of South Carolina Upstate,SC,5403,0,0,0,0,0,1,36,1,0,38
+218742002,University of South Carolina-Upstate,University Center - Greenville,SC,5403,0,0,0,0,0,0,0,0,0,0
+224226001,Dallas Baptist University,Main Campus,TX,5400,0,0,0,0,0,0,6,0,0,6
+162584001,Frostburg State University,Main Campus,MD,5385,0,0,0,0,1,0,15,0,0,16
+229799001,Weatherford College,Main Campus,TX,5384,0,0,0,0,0,0,12,0,0,12
+234155001,Virginia State University,Main Campus,VA,5366,0,0,1,0,6,5,2,3,0,17
+100654001,Alabama A & M University,Main Campus,AL,5327,0,0,5,2,4,14,66,1,1,93
+196468001,Teachers College at Columbia University,Main Campus,NY,5307,0,0,0,0,0,0,0,0,0,0
+218025001,Florence-Darlington Technical College,Main Campus,SC,5242,0,0,0,0,0,0,0,0,0,0
+139700002,Georgia Highlands College,Cartersville Campus,GA,5219,0,0,0,0,0,0,0,0,0,0
+181491001,Northeast Community College,Northeast Community College,NE,5205,0,0,0,0,0,0,0,0,0,0
+227304001,Odessa College,Main Campus,TX,5132,0,0,0,0,0,0,5,0,1,6
+126775001,Colorado School of Mines,main campus,CO,5124,0,0,1,0,0,1,7,2,2,13
+210146001,Southern Oregon University,Ashland Campus,OR,5104,0,0,1,0,0,0,5,0,2,8
+128744001,University of Bridgeport,Main Campus,CT,5103,0,0,1,0,2,5,4,0,0,12
+129242001,Fairfield University,Main Campus,CT,5074,0,0,3,0,0,4,13,1,0,21
+193308001,Monroe College-Main Campus,Bronx Campus,NY,5068,0,0,0,0,0,0,0,0,0,0
+151263001,University of Indianapolis,UNIVERSITY OF INDIANAPOLIS,IN,5055,0,0,0,1,0,0,13,0,0,14
+144351001,Concordia University,Main Campus,IL,5049,0,0,0,0,0,2,25,0,0,27
+148654001,University of Illinois at Springfield,University of Illinois at Springfield,IL,4977,0,0,2,0,0,1,16,1,0,20
+168421001,Worcester Polytechnic Institute,Main Campus,MA,4961,0,0,0,0,0,0,2,0,0,2
+231712001,Christopher Newport University,Main Campus,VA,4952,0,0,1,0,0,1,0,0,2,4
+178244001,Missouri Baptist University,Main Campus,MO,4836,0,0,0,0,0,1,5,0,0,6
+232566001,Longwood University,Main Campus,VA,4832,0,0,3,0,0,1,14,2,0,20
+201955001,University of Cincinnati-Raymond Walters College,Main Campus,OH,4820,0,0,0,0,0,0,1,0,0,1
+215655001,Robert Morris University,Main Campus,PA,4783,0,0,0,0,0,0,4,0,0,4
+409698001,California State University-Monterey Bay,Main Campus,CA,4688,0,0,1,0,0,2,11,4,0,18
+187648001,Eastern New Mexico University-Main Campus,Main Campus,NM,4679,0,0,0,0,0,1,14,2,0,17
+231651001,Regent University,Main Campus,VA,4656,0,0,0,0,0,1,0,0,0,1
+188137001,Santa Fe Community College,Main Campus,NM,4630,0,0,0,0,0,0,0,0,0,0
+161457001,University of New England,Main Campus,ME,4493,0,0,3,0,0,0,3,0,2,8
+152266001,Purdue University-North Central Campus,Main Campus,IN,4463,0,0,0,0,0,0,5,0,0,5
+121691001,University of Redlands,Main Campus,CA,4431,0,0,3,0,1,4,41,10,0,59
+121691006,University of Redlands,Torrance Regional Center,CA,4431,0,0,0,0,0,0,0,0,0,0
+143118001,Aurora University,Main Campus,IL,4355,0,0,0,0,0,0,0,0,0,0
+202763001,The University of Findlay,Main Campus,OH,4278,0,0,0,0,0,0,5,1,0,6
+154697001,Barton County Community College,Barton County Community College,KS,4237,0,0,0,0,0,0,6,0,0,6
+110361001,California Baptist University,Main Campus,CA,4103,0,0,1,0,0,0,10,3,0,14
+434061001,South Louisiana Community College,Main Campus,LA,4092,0,0,0,0,1,0,0,0,0,1
+201973001,Clark State Community College,Main Campus,OH,4032,0,0,0,0,0,0,0,0,0,0
+191986001,Jamestown Community College,Jamestown Campus,NY,4024,0,0,0,0,0,1,2,0,0,3
+151290001,Indiana Institute of Technology,INDIANA INSTITUTE OF TECHNOLOGY,IN,4006,0,0,1,0,0,0,10,0,0,11
+133997002,Florida Career College,Pembroke Pines Campus,FL,3958,0,0,0,0,0,0,0,0,0,0
+133997004,Florida Career College,Hialeah Campus,FL,3958,0,0,0,0,0,0,0,0,0,0
+133997005,Florida Career College,Lauderdale Lakes Campus,FL,3958,0,0,0,0,0,0,1,0,0,1
+441937001,California State University-Channel Islands,California State University Channel Islands,CA,3862,0,0,0,0,0,0,3,0,1,4
+196565001,Tompkins-Cortland Community College,Main Campus,NY,3699,0,0,0,0,0,0,1,0,0,1
+229018001,The University of Texas of the Permian Basin,UTPB - Main Campus,TX,3546,0,0,1,0,1,0,10,1,0,13
+178059001,Maryville University of Saint Louis,Maryville University of Saint Louis,MO,3534,0,0,2,0,0,0,0,0,1,3
+445188001,University of California-Merced,Main Campus,CA,3414,0,0,2,0,0,0,3,1,1,7
+446774001,Blue Ridge Community and Technical College,Main Campus,WV,3247,0,0,0,0,1,0,1,0,0,2
+219718001,Bethel College,Bethel University,TN,2975,0,0,0,0,0,0,12,0,0,12
+156541001,University of the Cumberlands,Main Campus,KY,2955,0,0,0,0,0,2,23,0,0,25
+447689001,Georgia Gwinnett College,Main campus,GA,2947,0,0,0,0,0,0,0,0,0,0
+130183001,Post University,Main Campus,CT,2590,0,0,0,0,0,0,7,0,0,7
+126669001,Colorado Christian University,Main Campus,CO,2511,0,0,0,0,0,0,10,2,0,12
+208488001,Concordia University,Main Campus,OR,1901,0,0,0,0,0,0,5,0,0,5

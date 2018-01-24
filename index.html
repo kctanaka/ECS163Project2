@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<html>
+	<head>
+			<title>Project 2 - Kimberly Tanaka</title>
+			<link rel = "stylesheet" href = "stylesheet.css"/>
+			<link rel="stylesheet" href="js/jquery-ui/jquery-ui.css">
+			<script src="js/d3.js"></script>
+	    <script src="js/jquery.js"></script>
+	    <script src="js/jquery-ui/jquery-ui.js"></script>
+	    <script src="js/topojson.v2.min.js"></script>
+      <script src="js/d3-scale-chromatic.v1.min"></script>
+			
+	</head>
+	<body>
+		<header>
+			<h1>Campus Crime Data</h1>
+			<h2>Kimberly Tanaka </h2>
+			<h3>ECS 163 Project 2<br>02/28/2017</h3>
+		</header>
+
+  <hr>
+
+    <div id = "Introduction" class = "textbox">
+      <h2>Introduction</h2>
+      <p>For this project, I decided to visualize this <a href="https://ope.ed.gov/campussafety/#/datafile/list">Campus Safety and Security</a> dataset curated by the U.S. Department of Education.  This dataset spans ten years (2005 to 2014), and comes in 8 zip files that each contain twenty data files.  It includes data for crime, hate crime, arrests, disciplinary action, for on campus, off-campus, on public property, and in the residence halls.  I specifically chose to work with the on campus crime data, which provided addresses of schools in different states, and the instances of various types of crimes.  I then aggregated and filtered the data to create the following visualization.
+      </p>
+
+    </div>
+  
+
+    <div id = "block1" class = "chartContainer">
+    <h2>Interactive Visualization</h2>
+    <!-- divs to hold tooltips. -->
+      <div id="tooltip"></div>
+      <div id ="bartooltip"></div>
+      <div id ="tooltip3"></div>
+      <div class = "chart">
+         <svg id = "map-and-bars"></svg>
+         <div id = "slider"></div>
+         <svg id = "lineGraph"></svg>
+      </div>
+      <p>
+      </p>
+    </div>
+	    <script src="js/mappy.js"></script>	
+
+	  <div id = "Explanation" class ="textbox">
+      <h2>Explanation</h2>
+      <p><i>A good visualization shouldn't need an explanation. But it can't hurt to provide one.</i>
+      <br>
+      When the visualization first loads, it shows three components: the map, the bars to the right, and the line graph at the bottom.
+      The primary data being displayed is the relative crime density, the number of crimes per 100,000 students (like per capita, but with more reasonable numbers), which can be compared between states on the <b>map</b>, between types of crimes via the <b>bars</b>, or across time via the <b>line graph</b>.  Each of these elements are fully interative, and changes to one will affect the others.</p>
+      
+      <p class = "subparagraph">
+      <subheading> The Map</subheading><br><br>
+      The central element of this visualization is the choropleth map, which allows you to compare the crime density between states.  A more saturated color on the map corresponds to a higher crime density.  When a state is hovered over, its outline is highlighted with yellow and a tooltip is displayed that displays more absoulte information, specifically the student population and the number of crimes per year.
+      <br> 
+      Lastly, clicking on a state in the map will zoom into that state, change its fill color to white, and display circles for the most populous institutions in that state.  The size of the circle corresponds to the number of students at that school, and the saturation of the color corresponds to how much crime has occurred at that school.  When these circles are hovered over, the circle's outline changes to yellow and the name, population, number of crimes, and crime density of that school is displayed.  When a state is selected, the bar graph and line graph adjust to display information for just the selected state.  To exit this view, click on the state itself or on an area that is not another state.  Clicking on another state will cause the visualization to focus on the newly selected state.</p>
+     
+      <p class = "subparagraph">
+      <subheading> The Bars</subheading><br><br>
+      On the right, a set of bars are displayed, which allow you to see the breakdown of the total crimes per 100,000 students into nine categories and see the relative frequency of each type of crime.  The total crime is represented by the longest black bar, and the colored bars that represent each crime type are stacked next to the black bar, which is labeled "Total Crime".  Hovering over the colored bars will display a tooltip to inform you of what crime type that color represents and how many of the crimes per 100,000 students were of that type.  Clicking on the bars will allow you to filter the data by crime type, and the line graph and map will then be adjusted to only show data for that particular crime.</p>
+       <p class = "subparagraph">
+       <subheading> The Line Graph</subheading><br><br>
+       The line graph at the bottom of the map shows the crime density over time.  The visualization defaults to showing the average crime data over all years, however, there is a slider that allows you to choose a particular year to examine.  When a particular year is selected, a dot on the line graph corresponding to that year appears, and the map and bars are adjusted accordingly.</p>
+      </p>
+    </div>
+    
+	  <div id = "Evaluation" class ="textbox">
+      <h2>Evaluation</h2>
+      <p class = "subparagraph">
+        <subheading>Visualization Design Choices</subheading><br><br>
+        The three visualizations were chosen because in the data, I saw three main dimensions that the data could be compared by: state, year, and crime type.  The map was best for comparing the crime levels between states because there is an intuitive correlation between the state you are seeing and the crime level that is displayed, as opposed to something like a bar chart with a bar for each state. A line graph is best for comparing levels over time.  To compare the crime types, while parallel bars would be slightly better for quantitatively comparing the levels betwen crime types, I decided on the stacked bar because it shows how the parts add up to the whole, and is spatially compact.  In the zoomed-in view, where circles are used to represent individual campuses, I chose to use size of the circle to code for the size of the school, and color saturation to code for the number of crimes at that school (via opacity, so most circles would be visible even if they overlap).  A potential improvement that I did not implement would be the ability to zoom into the map to examine more densely packed campuses.  Currently, the zoom-and-focus displays the whole state, which is a disadvantage for large states like California or Texas that have a high density of campuses which become indistinguishable when you cannot zoom into the map. 
+        <br>
+      In this visualization, color was chosen to code for the category of crime being examined and is consistent throughout the entire visualization (i.e. murder is always purple).  I deliberately chose colors so that similar crimes would have similar colors.  For instance, vehicle theft and burglary are both shades of green (also green for envy that often drives theft), aggravated assault is blue, and robberies which are attacks for the intent of theft are teal, a color between blue and green.  The saturation of the color represents quantitative values.  Yellow was consistently used to highlight the border of a hovered-over element, while more detailed information for that element was being displayed.
+      </p>
+      <p class = "subparagraph">
+      <subheading>Data Manipulation</subheading><br><br>
+        As mentioned in the introduction, this dataset was large and required a fair amount of manipulation and filtering.  First, I chose to only work with on campus crime.  Most of the data used in the visualization is based on an aggregation of the data, crime counts and student population for each year, each state, and each crime type.  For most of the visualization, I chose to display the crime counts normalized to the state's population, since my overall goal is to give a picture of campus safety.  This allows the visualization to be fair to states with more students, which if crime rates were equal, would have more crimes than states with fewer people.  To select the specific college campuses to display in the zoomed-in view, I filtered out campuses with less than 5000 students and campuses with 0 total crimes.  Filtering in this way resulted in an uneven number of campuses per state, leaving two campuses for Montana and far too many campuses to view in California.  This could probably be improved, because as it stands, sometimes a state will show a high normalized crime rate, but the campuses that get displayed have none of that crime.  Perhaps a better strategy would be to pick the 20 most populated campuses in each state instead of the overall most populated campuses in the country, since most of them are in California or Texas, the two most populated states.
+<br>
+My visualization is fairly faithful to the data, since I normalized the aggregated data to the number of students.  However, there are two parts of the visualization that distort the data.  First is the bar graph that compares crime types.  The incidence of murder, negligent manslaughter, and nonforcible sex offenses is such a small portion of the total crime, that if the bars were the proper size, they would not be visible, and the user could not select that crime to view.  And so I set those bars to a constant small height that would allow the bar to be visible.  Secondly, when the individual campuses are displayed, the color scale does not correspond to the normalized crime rate, but is scaled based on the highest number of crimes on a campus displayed in that state.  This too could be changed to match the color coding of the overall state map, but that would be more computationally complex and arguably less informative.
+      </p>
+      
+      <p class = "subparagraph">
+        <subheading>Peer Evaluation</subheading><br><br>
+        I submitted my visualization system to a peer, who responded with helpful feedback, which can be viewed <a href = "feedback.html">here</a>.  
+        <br>
+        The main issue that was highlighted was the difficulty of selecting a particular college when the circles overlap.  This would most likely be improved by limiting the number of campuses that get displayed per state, or by implementing a way to zoom into an area of densely packed colleges, both of which will remain as ideas for improvement.
+        <br>
+        Also noted by my peer reviewer was that the bar graph is not completely intuitive with its lack of labels.  However, the omission of labels apart from the tooltips was done for the sake of visual aesthetics.  The information is accessible via user interaction, if they want to see it.
+        <br>
+        I was able to apply some of the recommended fixes, such as the boundaries of the zoomed-in map, the formatting of the tooltips, and making the purpose of the slider slightly more evident (I increased the size of the year axis labels).
+      </p>
+     
+    </div>
+
+    <div id = "Insights" class ="textbox">
+      <h2>Insights</h2>
+      <p>I visualized this dataset out of a personal curiosity that arises from my mother's paranoia about my safety as a college student.  The good news is that the prevalance campus crimes is fairly low, to the point where I had to calculate the number of crimes per 100,000 students in order to get reasonable numbers to visualize.  And of campus crime, most of it is burglary, a nonviolent property crime.  Comparing states, Montana is amusingly the state with the most arson and negligent manslaughter, and California, the land of Hollywood car chases, has the most vehicle theft.  I found the crime data over time to reveal the most insights.  As a whole, per-capita campus crime goes down, perhaps due to the increasing number of students.  However, a few exceptions appear.  Forcible sex offenses shows a drop from 2007 to 2013, then increases drastically.  I think this is due to an increased public awareness and reporting of sexual assault due to many of the campaigns that started around that time, such as Emma Sulkowicz's <a href = "https://en.wikipedia.org/wiki/Mattress_Performance_(Carry_That_Weight)">Mattress Performance (Carry That Weight)</a> in 2014.  Another notable exception is on the graph of murders, which are fairly uncommon.  However in 2007, there is a spike in that graph, and when 2007 is examined, the map shows Virgina in a dark purple.  This spike in campus murders is a result of the 2007 <a href = "https://en.wikipedia.org/wiki/Virginia_Tech_shooting">Virginia Tech shooting</a>.  It was both saddening and intriguing to see such a specific event reveal itself in the data.
+      </p>
+    </div>
+    
+    <div id = "Resources" class ="textbox">
+      <h2>Resources</h2>
+       <h3>(Giving credit where credit is due)</h3>
+      
+      <p>I relied heavily on the following resources:
+        <ul>
+          <li><a href = "https://geoservices.tamu.edu/Services/Geocode/BatchProcess/">Texas A&M's Geocoder</a>  - for getting the coordinates of the school locations</li> 
+          <li><a href = "http://www.freegeocoder.com/">Free Geocoder</a> - for manually getting coordinates of missing campus addresses</li>
+          <li><a href = "http://csv.togeojson.com/">CSV to GeoJSON converter</a> - for generating GeoJSON from csv list of coordinates</li> 
+          <li><a href = "https://bl.ocks.org/mbostock/2206590">Mike Bostock's Map Transform Examples</a></li>
+          <li><a href = "https://www.w3schools.com/">w3schools.com</a> - Javascript, HTML, and CSS tutorials</li> 
+        </ul>
+      </p>
+
+    </div>
+
+	</body>
+</html>

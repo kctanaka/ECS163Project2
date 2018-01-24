@@ -1,0 +1,177 @@
+  header {
+	  font-family: arial;
+  	width: 80%;
+  	margin: auto;
+  	background: #e6e6e6;
+  	border-radius: 5px;
+  	padding: 10px;
+	}
+
+	body {
+	  font-family: arial;
+		margin-left: 15%;
+  	width: 70%;
+  	background: gray;
+	}
+	
+	
+	h1,h2, h3, h4 {
+		text-align: center;
+	}
+
+	h3, h4 {
+	  padding: 5px;
+	}
+
+  subheading {
+		text-align: left;
+    font-weight: bold;
+		font-size: 20px;
+	}
+    
+  p {
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+		text-align: justify;
+    text-justify: inter-word;
+	}
+
+	ul
+	{
+	  margin-left: 10%;
+	}
+
+	.subparagraph
+	{
+    padding: 7px;
+	}
+
+  .textbox {
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+  }
+
+  .chart {
+    background-color: white;
+    border: 1px solid gray;
+	}
+  
+  .chartContainer {
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 10px;
+  }
+
+  .introduction {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 10px;
+  }
+
+  .state{
+    stroke: gray;
+    stroke-linejoin: round;
+    stroke-width: 1px;
+    fill-opacity: 1;
+  }
+
+  .hoverstate{
+    stroke-width: 2px;
+    fill-opacity: 0.6;
+    stroke: yellow;
+  }
+
+  .campus{
+    stroke-width: 0.25px;
+  }
+  .hovercampus{
+    stroke-width: 0.4px;
+    stroke: yellow;
+  }
+
+  .bar
+  {
+    fill-opacity: 1;
+  }
+
+  .hoverbar{
+    fill-opacity: 0.7;
+    stroke: yellow;
+    stroke-width: 2px;
+  }
+
+  .active{
+    stroke-width: 1.5px;
+    fill: white;
+    stroke: yellow;
+  }
+
+  .extraticklabel
+  {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-anchor: middle;
+  }
+
+
+  .yearaxis text
+  {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  #linegraphYax text
+  {
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+
+  #tooltip{
+    position: absolute;
+    display: none;
+		background:rgba(0,0,0,0.9);
+		border:1px solid grey;
+		border-radius:5px;
+		font-size:16px;
+		width:auto;
+		padding:4px;
+		color:white;
+	  text-align: justify;
+	}
+
+	#bartooltip{
+    position: absolute;
+    display: none;
+		background:rgba(0,0,0,0.9);
+		border:1px solid grey;
+		border-radius:5px;
+		font-size:16px;
+		width:auto;
+		padding:4px;
+		color:white;
+	  text-align: center;
+	}
+
+  #tooltip3{
+    position: absolute;
+    display: none;
+		background:rgba(0,0,0,0.9);
+		border:1px solid grey;
+		border-radius:5px;
+		font-size:12px;
+		width:auto;
+		padding:4px;
+		color:white;
+    text-align: justify;
+	}
+	
